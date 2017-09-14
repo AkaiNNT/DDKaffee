@@ -1,0 +1,14 @@
+.image-item2 {
+	background-image: url('../img/coffee_tack.png');
+}
+.right-media {
+	padding-top: 170px;
+}
+.media-heading-custom {
+	color: #d9a536;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+.p-media-custom {
+	width: auto !important;
+}
