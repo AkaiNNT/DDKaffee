@@ -12,3 +12,14 @@
 .p-media-custom {
 	width: auto !important;
 }
+
+.title-product {
+	text-transform: uppercase;
+	font-weight: 700;
+	float: right;
+	font-size: 18px;
+}
+
+.text-right {
+	text-align: right !important;
+}

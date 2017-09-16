@@ -36,6 +36,14 @@ a.header-a-tag-custom:hover {
 
 .title-product {
 	color: #363636;
+	text-transform: uppercase;
+	font-weight: 700;
+	float: right;
+	font-size: 32px;
+}
+
+.text-right {
+	text-align: right !important;
 }
 
 .add-background {
