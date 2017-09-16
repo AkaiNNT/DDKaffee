@@ -56,11 +56,25 @@
         </div>
       </div>
     </nav> -->
-    <nav class="navbar navbar-expand-lg navbar-light fixed-top nav-custom" id="mainNav">
-      <div class="">
-        <a href="index.html" class="navbar-brand">
-          <img src="img/logo.png" alt="One of the best themes ever">Omega
+    <nav class="navbar navbar-expand-lg navbar-light navbar-fixed-top nav-custom" id="mainNav" style="border: transparent; background-color: transparent;">
+      <div class="navbar-header" style="width: 100%;">
+        <a href="index.php" class="navbar-brand" style="padding: 0px 60px; height: 60px;">
+          <img src="img/logo.png" alt="One of the best themes ever">
         </a>
+        <div class="pull-right">
+          <a href="index.php" class="navbar-brand header-a-tag-custom">
+            <span class="title-header active-a-tag">Trang chủ</span>
+          </a>
+          <a href="index.php" class="navbar-brand header-a-tag-custom">
+            <span class="title-header">Doanh nghiệp</span>
+          </a>
+          <a href="index.php" class="navbar-brand header-a-tag-custom">
+            <span class="title-header">Blog</span>
+          </a>
+          <a href="index.php" class="navbar-brand header-a-tag-custom">
+            <span class="title-header">Liên hệ</span>
+          </a>
+        </div>
       </div>
     </nav>
     <div class=""></div>
@@ -88,7 +102,7 @@
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
             <li data-target="#myCarousel" data-slide-to="3"></li>
-            <li data-target="#myCarousel" data-slide-to="4"></li>
+            <!-- <li data-target="#myCarousel" data-slide-to="4"></li> -->
           </ol>
 
           <!-- Wrapper for slides -->
@@ -96,8 +110,8 @@
             <?php include 'slider/item1.php';?>
             <?php include 'slider/item2.php';?>
             <?php include 'slider/item3.php';?>
-            <?php include 'slider/item1.php';?>
-            <?php include 'slider/item2.php';?>
+            <?php include 'slider/item4.php';?>
+            <!-- <?php include 'slider/item2.php';?> -->
           </div>
         </div>
       </div>

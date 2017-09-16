@@ -4,12 +4,44 @@ section#contact {
 	padding: 20px 0;
 }
 #mainNav {
-	background-color: black;
+	/*background-color: black;*/
+	height: 60px;
 	color: white;
+	border-color: transparent;
 }
 .affix {
 	color: white;
 }
 .nav-custom {
 	/*position: absolute !important;*/
+	margin-bottom: 0px !important;
+    background-color: transparent;
+    padding-top: 0px;
+    height: 60px;
+}
+
+a.header-a-tag-custom {
+	padding: 20px 10px !important;
+	font-size: 14px;
+	color: white !important;
+}
+
+a.header-a-tag-custom:hover {
+	color: #d9a535 !important;
+}
+
+.active-a-tag {
+	color: #d9a535;
+}
+
+.title-product {
+	color: #363636;
+}
+
+.add-background {
+	background-image: url('../img/background-product.jpg');
+}
+
+.add-background-item4 {
+	background-color: #f4f4f4;
 }
