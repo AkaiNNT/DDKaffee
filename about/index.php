@@ -24,31 +24,55 @@
     <link href="../css/creative.css" rel="stylesheet">
     <link href="../css/about.css" rel="stylesheet">
     <link href="../css/home.css" rel="stylesheet">
+    <link href="../css/about_us.css" rel="stylesheet">
     <link href="../css/shared.css" rel="stylesheet">
 </head>
+<style type="text/css">
+  .hover-a-tag:hover {
+    color: #d9a535 !important;
+  }
+</style>
 <body id="page-top">
-	<nav class="navbar navbar-expand-lg navbar-light navbar-fixed-top nav-custom" id="mainNav" style="border: transparent; background-color: transparent;">
-    <div class="navbar-header" style="width: 100%;">
-      <a href="index.php" class="navbar-brand" style="padding: 0px 60px; height: 60px;">
-        <img src="../img/logo.png" alt="One of the best themes ever">
-      </a>
-      <div class="pull-right">
-        <a href="index.php" class="navbar-brand header-a-tag-custom">
-          <span class="title-header active-a-tag">Trang chủ</span>
-        </a>
-        <a href="index.php" class="navbar-brand header-a-tag-custom">
-          <span class="title-header">Doanh nghiệp</span>
-        </a>
-        <a href="index.php" class="navbar-brand header-a-tag-custom">
-          <span class="title-header">Blog</span>
-        </a>
-        <a href="index.php" class="navbar-brand header-a-tag-custom">
-          <span class="title-header">Liên hệ</span>
-        </a>
+  <div class="banner">
+    <div class="navbar-light" id="">
+      <div class="container">
+        <a class="navbar-left navbar-brand js-scroll-trigger bg-logo" href="../"  style="padding-top: 0px;"><img src="../img/logo.png" alt="One of the best themes ever"></a>
+       
+        <div class="collapse navbar-collapse" id="navbarResponsive" style="padding-top: 0px;">
+          <ul class="nav navbar-nav ml-auto navbar-right ">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="../index.php">TRANG CHỦ</a>
+            </li>
+            <!-- <li class="nav-item active1">
+              <a class="nav-link js-scroll-trigger" href="../about_us">DOANH NGHIỆP</a>
+            </li> -->
+            <li class="nav-item active1">
+              <div class="dropdown" style="padding-top: 15px;">
+                <a class="nav-link js-scroll-trigger dropdown-toggle" data-toggle="dropdown">DOANH NGHIỆP
+                </a>
+                <ul class="dropdown-menu dropdown-menu-custom" style="background: transparent; text-align: right; padding-right: 0px !important; right: -22px;">
+                  <li><a class="hover-a-tag" href="../about" style="color: white;">VỀ CHÚNG TÔI</a></li>
+                  <li><a class="hover-a-tag" href="../about_us" style="color: white;">QUY TRÌNH SẢN XUẤT</a></li>
+                  <li><a class="hover-a-tag" href="../product" style="color: white;">SẢN PHẨM</a></li>
+                  <li><a class="hover-a-tag" href="#" style="color: white;">DỊCH VỤ</a></li>
+                </ul>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="../blog">BLOG</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#contact">LIÊN HỆ</a>
+            </li>
+          </ul>
+        </div>
       </div>
+    <div class="container main-tittle">
+      <h1>VỀ CHÚNG TÔI</h1>
     </div>
-  </nav>
-  <div class=""></div>
+  </div>
+  </div>
+  <div class="clearfix"></div>
 	<div class="container padding-nav">
 		<div class="col-md-8 col-md-offset-2">
 			<div class="img-about" style="height: 330px; width: 100%; overflow: hidden;">
@@ -84,6 +108,16 @@
 		</div>
 	</div>
 	<br>
+  <script src="../vendor/jquery/jquery.min.js"></script>
+  <script src="../vendor/popper/popper.min.js"></script>
+  <script src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="../vendor/scrollreveal/scrollreveal.min.js"></script>
+  <script src="../vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+  <!-- Custom scripts for this template -->
 </body>
 <?php include '../shared/footer.php';?>
 </html>

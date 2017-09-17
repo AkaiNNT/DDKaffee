@@ -109,8 +109,9 @@ height: 200px;
   background-color: #008CBA;
 }
 .images{
-	width: 300px;
-	height: 200px;
+	/*width: 300px;*/
+	/*height: 200px;*/
+	width: 100%;
 }
 .tab-content{
 	margin: 0 200px;
@@ -126,3 +127,27 @@ height: 200px;
 .coppy-right{
 	text-align: center;
 }
+
+.icons-flow {
+	padding-left: 20px;
+	float: left;
+    padding-top: 75px;
+}
+
+.each-step-custom {
+	text-align: center;
+	width: 240px;
+}
+
+.each-step-custom-2 {
+	width: 200px;
+	text-align: center;
+}
+
+.none-border {
+	border: none !important;
+}
+
+/*.active {
+	background-image: url(img/about_us/fill_color.jpg);
+}*/

@@ -53,3 +53,48 @@ a.header-a-tag-custom:hover {
 .add-background-item4 {
 	background-color: #f4f4f4;
 }
+
+.hover-a-tag:hover {
+	color: #d9a535 !important;
+}
+
+body a:hover{
+	text-decoration: none;
+}
+li a:hover{
+	color: yellow;
+}
+.banner-fake ul li a{
+	font-weight: bold;
+	color: white;
+}
+.banner-fake .navbar-nav .active1 a, .banner-fake ul li a:hover, .banner-fake ul li a:focus {
+	color:#d9a535;
+	background: none;
+}
+nav, .nav {
+	background: none;
+}
+.navbar-brand{
+	padding-left: 100px;
+}
+.navbar-collapse{
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+#nav-custom{ 
+	padding-right:  25px;
+}
+.banner-fake {
+  width: 100%;
+}
+
+.a-dropdown-custom {
+	font-weight: bold;
+    color: white !important;
+}
+
+.a-dropdown-custom:hover {
+	color: #d9a535 !important;
+}

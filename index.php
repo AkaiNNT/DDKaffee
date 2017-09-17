@@ -26,32 +26,114 @@
     <link href="css/home.css" rel="stylesheet">
     <link href="css/slider.css" rel="stylesheet">
     <link href="css/slider_custom.css" rel="stylesheet">
+    <link href="css/shared.css" rel="stylesheet">
 
   </head>
+  <style type="text/css">
+    .a-dropdown-custom {
+      font-weight: bold;
+      color: white !important;
+    }
 
+    .a-dropdown-custom:hover {
+      color: #d9a535 !important;
+    }
+    body a:hover{
+      text-decoration: none;
+    }
+    li a:hover{
+      color: yellow;
+    }
+    .banner-fake ul li a{
+      font-weight: bold;
+      color: white;
+    }
+    .banner-fake .navbar-nav .active1 a, .banner-fake ul li a:hover, .banner-fake ul li a:focus {
+      color:#d9a535;
+      background: none;
+    }
+    .active1 a {
+      color: #d9a535 !important;
+      background: none;
+    }
+    nav, .nav {
+      background: none;
+    }
+    .navbar-brand{
+      padding-left: 100px;
+    }
+    .navbar-collapse{
+      padding-top: 20px;
+      padding-left: 50px;
+      padding-right: 50px;
+    }
+    #nav-custom{ 
+      padding-right:  25px;
+    }
+    .dropdown-menu-custom {
+      background: transparent;
+      text-align: right;
+      border: none;
+      box-shadow: none;
+      padding-right: 0px !important;
+      right: -22px;
+    }
+  </style>
   <body id="page-top">
-    <nav class="navbar navbar-expand-lg navbar-light navbar-fixed-top nav-custom" id="mainNav" style="border: transparent; background-color: transparent;">
-      <div class="navbar-header" style="width: 100%;">
-        <a href="../" class="navbar-brand" style="padding: 0px 60px; height: 60px;">
-          <img src="img/logo.png" alt="One of the best themes ever">
-        </a>
-        <div class="pull-right">
-          <a href="index.php" class="navbar-brand header-a-tag-custom">
-            <span class="title-header active-a-tag">Trang chủ</span>
+    <div class="banner-fake">
+      <nav class="navbar navbar-expand-lg navbar-light navbar-fixed-top nav-custom" id="mainNav" style="border: transparent; background-color: transparent;">
+        <div class="navbar-header" style="width: 100%;">
+          <!-- <a href="../" class="navbar-brand" style="padding: 0px 60px; height: 60px;">
+            <img src="img/logo.png" alt="One of the best themes ever">
           </a>
-          <a href="index.php" class="navbar-brand header-a-tag-custom">
-            <span class="title-header">Doanh nghiệp</span>
-          </a>
-          <a href="index.php" class="navbar-brand header-a-tag-custom">
-            <span class="title-header">Blog</span>
-          </a>
-          <a href="index.php" class="navbar-brand header-a-tag-custom">
-            <span class="title-header">Liên hệ</span>
-          </a>
+          <div class="pull-right">
+            <a href="index.php" class="navbar-brand header-a-tag-custom">
+              <span class="title-header active-a-tag">Trang chủ</span>
+            </a>
+            <a href="index.php" class="navbar-brand header-a-tag-custom">
+              <span class="title-header">Doanh nghiệp</span>
+            </a>
+            <a href="index.php" class="navbar-brand header-a-tag-custom">
+              <span class="title-header">Blog</span>
+            </a>
+            <a href="index.php" class="navbar-brand header-a-tag-custom">
+              <span class="title-header">Liên hệ</span>
+            </a>
+          </div> -->
+          <a class="navbar-left navbar-brand js-scroll-trigger bg-logo" href="#"  style="padding-top: 0px;"><img src="img/logo.png" alt="One of the best themes ever"></a>
+         
+          <div class="collapse navbar-collapse" id="navbarResponsive" style="padding-top: 0px;">
+            <ul class="nav navbar-nav ml-auto navbar-right ">
+              <li class="nav-item active1">
+                <a class="nav-link js-scroll-trigger" href="/index.php">TRANG CHỦ</a>
+              </li>
+              <!-- <li class="nav-item active1">
+                <a class="nav-link js-scroll-trigger" href="../about_us">DOANH NGHIỆP</a>
+              </li> -->
+              <li class="nav-item">
+                <div class="dropdown" style="padding-top: 15px;">
+                  <a class="nav-link js-scroll-trigger dropdown-toggle a-dropdown-custom" data-toggle="dropdown" style="cursor: pointer;">DOANH NGHIỆP
+                  </a>
+                  <ul class="dropdown-menu dropdown-menu-custom" style="background: transparent; text-align: right; padding-right: 0px !important; right: -22px;">
+                    <li><a class="hover-a-tag a-dropdown-custom" href="about" style="color: white;">VỀ CHÚNG TÔI</a></li>
+                    <li><a class="hover-a-tag a-dropdown-custom" href="about_us" style="color: white;">QUY TRÌNH SẢN XUẤT</a></li>
+                    <li><a class="hover-a-tag a-dropdown-custom" href="product" style="color: white;">SẢN PHẨM</a></li>
+                    <li><a class="hover-a-tag a-dropdown-custom" href="#" style="color: white;">DỊCH VỤ</a></li>
+                  </ul>
+                </div>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link js-scroll-trigger a-dropdown-custom" href="blog">BLOG</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link js-scroll-trigger a-dropdown-custom" href="#">LIÊN HỆ</a>
+              </li>
+            </ul>
+          </div>
         </div>
-      </div>
-    </nav>
-    <div class=""></div>
+      </nav>
+      <div class=""></div>
+    </div>
     <!-- <div class="oparactor-backg">
       <header class="masthead">
         <div class="oparactor-backg-2">
@@ -74,8 +156,8 @@
           <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
-            <li data-target="#myCarousel" data-slide-to="3"></li>
+            <!-- <li data-target="#myCarousel" data-slide-to="2"></li> -->
+            <!-- <li data-target="#myCarousel" data-slide-to="3"></li> -->
             <!-- <li data-target="#myCarousel" data-slide-to="4"></li> -->
           </ol>
 
@@ -83,14 +165,11 @@
           <div class="carousel-inner">
             <?php include 'slider/item1.php';?>
             <?php include 'slider/item2.php';?>
-            <?php include 'slider/item3.php';?>
-            <?php include 'slider/item4.php';?>
-            <!-- <?php include 'slider/item2.php';?> -->
+            
           </div>
         </div>
       </div>
     </section>
-
     <!-- <div class="call-to-action bg-dark">
       <div class="container text-center">
         <h2>Free Download at Start Bootstrap!</h2>
