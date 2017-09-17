@@ -1,16 +1,6 @@
 <div class="item item2" style="background-color: #f4f4f4;">
   <div class="fill">
     <div class="inner-content">
-      <!-- <div class="carousel-img">
-        <img src="img/coffee_tack.png" />
-      </div>
-      <div class="carousel-desc">
-
-        <h2>Vintage Style Sofa</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elit ipsum, scelerisque non semper eu, aliquet vel odio. Sed auctor id purus nec tristique. Donec euismod, urna vel dapibus tristique, dolor arcu ultrices lectus, nec pulvinar est turpis sit amet felis. Duis interdum purus quam, vitae cursus erat ornare at. Donec congue mi a ipsum tincidunt, imperdiet vehicula odio rutrum. Nam porta vulputate magna, id pretium lectus iaculis eu. Ut ut viverra libero.</p>
-
-      </div>
-    </div> -->
       <div class="col-md-6">
         <div class="carousel-img">
           <img src="img/coffee_tack.png" alt="coffee" class="img img-responsive" style="max-height: auto !importain;" />
@@ -18,12 +8,6 @@
       </div>
 
       <div class="col-md-6 text-left">
-        <!-- <div class="carousel-desc">
-
-          <h2>Stylish Sofa</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elit ipsum, scelerisque non semper eu, aliquet vel odio. Sed auctor id purus nec tristique. Donec euismod, urna vel dapibus tristique, dolor arcu ultrices lectus, nec pulvinar est turpis sit amet felis. Duis interdum purus quam, vitae cursus erat ornare at. Donec congue mi a ipsum tincidunt, imperdiet vehicula odio rutrum. Nam porta vulputate magna, id pretium lectus iaculis eu. Ut ut viverra libero.</p>
-
-        </div> -->
         <div class="right-media">
           <div class="media">
             <div class="media-left">
@@ -55,5 +39,6 @@
           </div>
         </div>
       </div>
+    </div>
   </div>
 </div>

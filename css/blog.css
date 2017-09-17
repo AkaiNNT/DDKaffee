@@ -1,0 +1,25 @@
+.blogblog-title {
+	text-transform: uppercase;
+}
+
+
+.services-title {
+	text-transform: uppercase;
+	font-size: 18px;
+	color: #d9a535;
+	padding: 10px 0px;
+}
+
+.blog-content {
+	padding-bottom: 10px;
+}
+
+.img-box {
+	height: 120px;
+}
+
+.title-box {
+	height: 70px;
+	padding-top: 10px;
+	font-weight: 500;
+}

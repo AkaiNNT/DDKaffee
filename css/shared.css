@@ -1,0 +1,27 @@
+.footer-all {
+	padding: 30px 30px;
+}
+
+.title-footer {
+	color: #d9a535;
+	padding: 10px 0px;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+.footer-post-title {
+	color: #d9a535;
+	font-size: 15px;
+}
+
+.footer-post-date {
+	color: white;
+}
+
+.add-background-footer {
+	background-image: url('../img/background-footer.jpg');
+}
+
+.padding-nav {
+	padding-top: 80px !important;
+}

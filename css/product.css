@@ -1,0 +1,27 @@
+.main-product {
+	background-color: #f4f4f4;
+	display: inline-block;
+}
+
+.product-content {
+	padding-top: 200px;
+}
+
+.product-title {
+	font-size: 30px;
+}
+
+.product-desc {
+	padding: 30px 0px;
+}
+
+.other-title-product {
+	text-transform: uppercase;
+	color: black;
+	font-size: 18px;
+	text-align: center;
+}
+
+.other-title-product:hover {
+	color: #d9a535;
+}
