@@ -44,7 +44,7 @@
               <a class="nav-link js-scroll-trigger" href="../index.php">TRANG CHỦ</a>
             </li>
             <!-- <li class="nav-item active1">
-              <a class="nav-link js-scroll-trigger" href="../about_us">DOANH NGHIỆP</a>
+              <a class="nav-link js-scroll-trigger" href="../process">DOANH NGHIỆP</a>
             </li> -->
             <li class="nav-item">
               <div class="dropdown" style="padding-top: 15px;">
@@ -52,7 +52,7 @@
                 </a>
                 <ul class="dropdown-menu dropdown-menu-custom" style="background: transparent; text-align: right; padding-right: 0px !important; right: -22px;">
                   <li><a class="hover-a-tag" href="../about" style="color: white;">VỀ CHÚNG TÔI</a></li>
-                  <li><a class="hover-a-tag" href="../about_us" style="color: white;">QUY TRÌNH SẢN XUẤT</a></li>
+                  <li><a class="hover-a-tag" href="../process" style="color: white;">QUY TRÌNH SẢN XUẤT</a></li>
                   <li><a class="hover-a-tag" href="../product" style="color: white;">SẢN PHẨM</a></li>
                   <li><a class="hover-a-tag" href="#" style="color: white;">DỊCH VỤ</a></li>
                 </ul>
