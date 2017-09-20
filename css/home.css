@@ -140,3 +140,22 @@ nav, .nav {
 	top: 70px;
 	left: 100px;
 }
+
+.config-padding {
+	padding-top: 100px;
+	padding-left: 40px;
+}
+
+.config-p-tag {
+	width: auto !important;
+}
+
+input[type=text],textarea {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}

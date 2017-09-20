@@ -127,7 +127,7 @@
                   <a class="nav-link js-scroll-trigger a-dropdown-custom" href="blog">BLOG</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link js-scroll-trigger a-dropdown-custom" href="#">LIÊN HỆ</a>
+                  <a class="nav-link js-scroll-trigger a-dropdown-custom" href="contact">LIÊN HỆ</a>
                 </li>
               </ul>
             </div>
@@ -160,7 +160,7 @@
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
             <li data-target="#myCarousel" data-slide-to="3"></li>
-            <!-- <li data-target="#myCarousel" data-slide-to="4"></li> -->
+            <li data-target="#myCarousel" data-slide-to="4"></li>
           </ol>
 
           <!-- Wrapper for slides -->
@@ -169,7 +169,7 @@
             <?php include 'slider/item2.php';?>
             <?php include 'slider/item3.php';?>
             <?php include 'slider/item4.php';?>
-            
+            <?php include 'slider/item5.php';?>
           </div>
         </div>
       </div>
@@ -231,7 +231,7 @@
           currentIndex = $('div.active').index() + 1;
           // $('.num').html(''+currentIndex+'/'+totalItems+'');
           console.log(currentIndex);
-          if (currentIndex != 6) {
+          if (currentIndex != 2) {
             if ($(".navbar.navbar-expand-lg").hasClass("white-backg-header")) {
               
             }

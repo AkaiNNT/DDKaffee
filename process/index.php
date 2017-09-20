@@ -34,7 +34,7 @@
     	<div class="tabs-list">
     		<ul class="nav nav-tabs process" style=" outline: none; border-bottom: 0;">
 					<li class="step each-step-custom active" id="step1">
-						<a href="#Tab1" data-toggle="tab" class="none-border">
+						<a href="#Tab1" data-toggle="tab" aria-expanded="false" class="none-border">
 							<img src="../img/about_us/process1.png" alt="step1" class ="images img-responsive">
 						</a>
 					</li>
@@ -52,8 +52,8 @@
 					</li>
 					<img src="../img/about_us/flow.png" alt="step1" class ="icons-flow img-responsive">
 					<li class="step each-step-custom" class="none-border">
-						<a href="#Tab4" data-toggle="tab" aria-expanded="false">
-							<img src="../img/about_us/process4.png " alt="step4" class="img-responsive">
+						<a href="#Tab4" data-toggle="tab" aria-expanded="false" class="none-border">
+							<img src="../img/about_us/process4.png " alt="step4" class="images img-responsive">
 						</a></li>
 			</ul>
     	</div>

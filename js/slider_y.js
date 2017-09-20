@@ -1,7 +1,8 @@
 $(document).ready(function(){
 // invoke the carousel
     $('#myCarousel').carousel({
-      interval:6000
+      interval:6000,
+      wrap: false
     });
 
 // scroll slides on mouse scroll 

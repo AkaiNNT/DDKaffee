@@ -27,7 +27,7 @@
               <a class="nav-link js-scroll-trigger" href="../blog">BLOG</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#contact">LIÊN HỆ</a>
+              <a class="nav-link js-scroll-trigger" href="../contact">LIÊN HỆ</a>
             </li>
           </ul>
         </div>
