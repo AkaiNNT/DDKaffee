@@ -160,8 +160,17 @@ height: 200px;
 .imgages{
 	position: relative;
 }
-.content{
 
+.title-client{
+	font-weight: bold;
+	font-size: 18px;
+	margin-top:10px;
+}
+.logo-client{
+padding: 50px 10px 30px 30px ;
+}
+.content{
+	font-size: 14px;
 }
 /*.active {
 	background-image: url(img/about_us/fill_color.jpg);

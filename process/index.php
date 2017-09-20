@@ -115,24 +115,67 @@
 						<h1 id="nongtrai">Khách hàng</h1>
 						<p>Những hạt cà phê trải qua nhiều bước sàn lọc, chế biến, rang xay, cuối cùng đến tay khách hàng trong diện mạo và chất lượng tuyệt đối hoàn hảo.</p>
 						<div class="col-md-6">
-							<img src="../img/about_us/namlong.png" class="img-responsive" alt="">
+							<img src="../img/about_us/namlong.png" class="img-responsive logo-client" alt="">
 							<div class="khachhang-content">
-								<div>Nam Long</div>
+								<div class="title-client">Nam Long</div>
 								<div class="content">
-									“D&D Kaffee là thương hiệu đi đầu trong việc sản xuất cà phê sạch theo quy trình khép kín cùng các nguyên tắc kiểm soát chặt chẽ, nhằm tạo ra những sản phẩm chất lượng tốt nhất cho người tiêu dùng.” 
+									“D&D Kaffee là thươg hiệu đi đầu trong việc sản xuất cà phê sạch theo quy trình khép kín cùng các nguyên tắc kiểm soát chặt chẽ, nhằm tạo ra những sản phẩm chất lượng tốt nhất cho người tiêu dùng.” 
 								</div>
 							</div>
 						</div>
 						<div class="col-md-6">
-							<img src="../img/about_us/namlong.png" class="img-responsive" alt="">
+							<img src="../img/logo-clients/T-Coffee-logo.png" class="img-responsive logo-client" alt="">
 							<div class="khachhang-content">
-								<div>Nam Long</div>
+								<div class="title-client">T-Coffee</div>
 								<div class="content">
-									“D&D Kaffee là thương hiệu đi đầu trong việc sản xuất cà phê sạch theo quy trình khép kín cùng các nguyên tắc kiểm soát chặt chẽ, nhằm tạo ra những sản phẩm chất lượng tốt nhất cho người tiêu dùng.” 
+									“Chất lượng cà phê từ D&D Kaffee không phải là chuyện có thể nói ngày một ngày hai. Đó là chất lượng tuyệt hảo. Tôi cảm nhận trong đó sự "tử tế” sâu sắc mà toàn bộ những người sáng lập và nhân viên đặt vào trong từng sản phẩm". 
 								</div>
 							</div>
 						</div>
 						<br>
+						<div class="row">
+							<div class="col-md-4">
+								<img src="../img/logo-clients/caudatfarm-logo.png" class="img-responsive">
+							</div>
+							<div class="col-md-4">
+								<img src="../img/logo-clients/newman-logo.png"" class="img-responsive">
+							</div>
+							<div class="col-md-4">
+								<img src="../img/logo-clients/phinxanh-logo.png" class="img-responsive">
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4">
+								<img src="../img/logo-clients/why-roastery-logo.png" class="mg-responsive">
+							</div>
+							<div class="col-md-4">
+								<img src="../img/logo-clients/rita-vo.png" class="img-responsive" >
+							</div>
+							<div class="col-md-4">
+								<img src="../img/logo-clients/Nestle-logo.png" class="img-responsive">
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4 logo-client"></div>
+							<div class="col-md-4">
+								<img src="../img/logo-clients/NETSPACE-logo.png" class="img-responsive">
+							</div>
+							<div class="col-md-4"> 
+
+							</div>
+						</div>
+						<h2 style="font-weight: bold;">TỪ THẨM ĐỊNH QUỐC TẾ</h2>
+						<div class="row">
+							<div class="col-md-6">
+								<img src="../img/logo-clients/circle.png" class="img-responsive logo-client">
+							</div>
+							<div class="col-md-6">
+								<img src="../img/logo-clients/circle.png" class="img-responsive logo-client">
+							</div>
+						</div>
+						<div class="row" style="text-align: center;">
+							<p>Qua nhiều năm nghiên cứu và phát triển chất lượng cà phê, D&D Kaffee luôn tuân thủ những nguyên tắc đạo đức theo tiêu chuẩn của hiệp hội Quốc Tế 4C và UTZ, góp phần xây dựng ngành cà phê bền vững về tương lai.</p>
+						</div>
 					</div>
 				</div>
 						

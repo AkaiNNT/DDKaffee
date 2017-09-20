@@ -133,4 +133,10 @@ nav, .nav {
 
 .gallery-main {
 	height: 480px;
+	position: relative;
+}
+.img-gallery{
+	position: absolute;
+	top: 70px;
+	left: 100px;
 }
