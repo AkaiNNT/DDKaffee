@@ -55,6 +55,10 @@ a.header-a-tag-custom:hover {
 	background-color: #f4f4f4;
 }
 
+.add-background-item5 {
+	background-color: #f4f4f4 !important;
+}
+
 .hover-a-tag:hover {
 	color: #d9a535 !important;
 }
@@ -113,4 +117,20 @@ nav, .nav {
 
 .black-text {
 	color: black !important;
+}
+
+.repadding {
+	padding: 60px 30px !important;
+}
+
+.white-backg-header {
+	background-color: white !important;
+}
+
+.white-backg-header a {
+	color: black !important;
+}
+
+.gallery-main {
+	height: 480px;
 }

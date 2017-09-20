@@ -31,10 +31,12 @@ $('#myCarousel').bind('mousewheel DOMMouseScroll', function(e){
         }
         else if( Math.floor(yClick - yMove) < -1 ){
             $(".carousel").carousel('prev');
+
         }
     });
     $(".carousel").on("touchend", function(){
             $(this).off("touchmove");
+
     });
 });
     

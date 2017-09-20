@@ -82,53 +82,55 @@
   <body id="page-top">
     <div class="banner-fake">
       <nav class="navbar navbar-expand-lg navbar-light navbar-fixed-top nav-custom" id="mainNav" style="border: transparent; background-color: transparent;">
-        <div class="navbar-header" style="width: 100%;">
-          <!-- <a href="../" class="navbar-brand" style="padding: 0px 60px; height: 60px;">
-            <img src="img/logo.png" alt="One of the best themes ever">
-          </a>
-          <div class="pull-right">
-            <a href="index.php" class="navbar-brand header-a-tag-custom">
-              <span class="title-header active-a-tag">Trang chủ</span>
+        <div class="container">
+          <div class="navbar-header" style="width: 100%;">
+            <!-- <a href="../" class="navbar-brand" style="padding: 0px 60px; height: 60px;">
+              <img src="img/logo.png" alt="One of the best themes ever">
             </a>
-            <a href="index.php" class="navbar-brand header-a-tag-custom">
-              <span class="title-header">Doanh nghiệp</span>
-            </a>
-            <a href="index.php" class="navbar-brand header-a-tag-custom">
-              <span class="title-header">Blog</span>
-            </a>
-            <a href="index.php" class="navbar-brand header-a-tag-custom">
-              <span class="title-header">Liên hệ</span>
-            </a>
-          </div> -->
-          <a class="navbar-left navbar-brand js-scroll-trigger bg-logo" href="#"  style="padding-top: 0px;"><img src="img/logo.png" alt="One of the best themes ever"></a>
-         
-          <div class="collapse navbar-collapse" id="navbarResponsive" style="padding-top: 0px;">
-            <ul class="nav navbar-nav ml-auto navbar-right ">
-              <li class="nav-item active1">
-                <a class="nav-link js-scroll-trigger" href="/index.php">TRANG CHỦ</a>
-              </li>
-              <!-- <li class="nav-item active1">
-                <a class="nav-link js-scroll-trigger" href="../process">DOANH NGHIỆP</a>
-              </li> -->
-              <li class="nav-item">
-                <div class="dropdown" style="padding-top: 15px;">
-                  <a class="nav-link js-scroll-trigger dropdown-toggle a-dropdown-custom" data-toggle="dropdown" style="cursor: pointer;">DOANH NGHIỆP
-                  </a>
-                  <ul class="dropdown-menu dropdown-menu-custom" style="background: transparent; text-align: right; padding-right: 0px !important; right: -22px;">
-                    <li><a class="hover-a-tag a-dropdown-custom" href="about" style="color: white;">VỀ CHÚNG TÔI</a></li>
-                    <li><a class="hover-a-tag a-dropdown-custom" href="process" style="color: white;">QUY TRÌNH SẢN XUẤT</a></li>
-                    <li><a class="hover-a-tag a-dropdown-custom" href="product" style="color: white;">SẢN PHẨM</a></li>
-                    <li><a class="hover-a-tag a-dropdown-custom" href="#" style="color: white;">DỊCH VỤ</a></li>
-                  </ul>
-                </div>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link js-scroll-trigger a-dropdown-custom" href="blog">BLOG</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link js-scroll-trigger a-dropdown-custom" href="#">LIÊN HỆ</a>
-              </li>
-            </ul>
+            <div class="pull-right">
+              <a href="index.php" class="navbar-brand header-a-tag-custom">
+                <span class="title-header active-a-tag">Trang chủ</span>
+              </a>
+              <a href="index.php" class="navbar-brand header-a-tag-custom">
+                <span class="title-header">Doanh nghiệp</span>
+              </a>
+              <a href="index.php" class="navbar-brand header-a-tag-custom">
+                <span class="title-header">Blog</span>
+              </a>
+              <a href="index.php" class="navbar-brand header-a-tag-custom">
+                <span class="title-header">Liên hệ</span>
+              </a>
+            </div> -->
+            <a class="navbar-left navbar-brand js-scroll-trigger bg-logo" href="#"  style="padding-top: 0px;"><img src="img/logo.png" alt="One of the best themes ever"></a>
+           
+            <div class="collapse navbar-collapse" id="navbarResponsive" style="padding-top: 0px;">
+              <ul class="nav navbar-nav ml-auto navbar-right ">
+                <li class="nav-item active1">
+                  <a class="nav-link js-scroll-trigger" href="/index.php">TRANG CHỦ</a>
+                </li>
+                <!-- <li class="nav-item active1">
+                  <a class="nav-link js-scroll-trigger" href="../process">DOANH NGHIỆP</a>
+                </li> -->
+                <li class="nav-item">
+                  <div class="dropdown" style="padding-top: 15px;">
+                    <a class="nav-link js-scroll-trigger dropdown-toggle a-dropdown-custom" data-toggle="dropdown" style="cursor: pointer;">DOANH NGHIỆP
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-custom" style="background: transparent; text-align: right; padding-right: 0px !important; right: -22px;">
+                      <li><a class="hover-a-tag a-dropdown-custom" href="about" style="color: white;">VỀ CHÚNG TÔI</a></li>
+                      <li><a class="hover-a-tag a-dropdown-custom" href="process" style="color: white;">QUY TRÌNH SẢN XUẤT</a></li>
+                      <li><a class="hover-a-tag a-dropdown-custom" href="product" style="color: white;">SẢN PHẨM</a></li>
+                      <li><a class="hover-a-tag a-dropdown-custom" href="services" style="color: white;">DỊCH VỤ</a></li>
+                    </ul>
+                  </div>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link js-scroll-trigger a-dropdown-custom" href="blog">BLOG</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link js-scroll-trigger a-dropdown-custom" href="#">LIÊN HỆ</a>
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </nav>
@@ -216,7 +218,33 @@
     <!-- Custom scripts for this template -->
     <script src="js/creative.js"></script>
     <script src="js/slider_y.js"></script>
-
+    <script type="text/javascript">
+      $(document).ready(function(){
+        // var totalItems = $('.item').length;
+        // var currentIndex = $('div.active').index() + 1;
+        // $('#myCarousel').bind('slid', function() {
+        //     currentIndex = $('div.active').index() + 1;
+        //    // $('.num').html(''+currentIndex+'/'+totalItems+'');
+        //    console.log(currentIndex);
+        // });
+        $('#myCarousel').on('slide.bs.carousel', function() {
+          currentIndex = $('div.active').index() + 1;
+          // $('.num').html(''+currentIndex+'/'+totalItems+'');
+          console.log(currentIndex);
+          if (currentIndex != 6) {
+            if ($(".navbar.navbar-expand-lg").hasClass("white-backg-header")) {
+              
+            }
+            else {
+              $(".navbar.navbar-expand-lg").addClass("white-backg-header");
+            }
+          }
+          else {
+            $(".navbar.navbar-expand-lg").removeClass("white-backg-header")
+          }
+        });
+      });
+    </script>
   </body>
 
 </html>

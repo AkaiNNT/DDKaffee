@@ -19,7 +19,7 @@
                   <li><a class="hover-a-tag" href="../about" style="color: white;">VỀ CHÚNG TÔI</a></li>
                   <li><a class="hover-a-tag" href="../process" style="color: white;">QUY TRÌNH SẢN XUẤT</a></li>
                   <li><a class="hover-a-tag" href="../product" style="color: white;">SẢN PHẨM</a></li>
-                  <li><a class="hover-a-tag" href="#" style="color: white;">DỊCH VỤ</a></li>
+                  <li><a class="hover-a-tag" href="../services" style="color: white;">DỊCH VỤ</a></li>
                 </ul>
               </div>
             </li>
@@ -33,6 +33,6 @@
         </div>
       </div>
   <div class="container main-tittle">
-  	<h1>QUY TRÌNH SẢN XUẤT</h1>
+  	QUY TRÌNH SẢN XUẤT
   </div>
 </div>

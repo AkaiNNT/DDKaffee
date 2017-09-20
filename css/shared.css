@@ -1,3 +1,13 @@
+@font-face {
+    font-family: sanfa;
+    src: url(/font/SF-UI-Display-Regular.tff);
+}
+
+/*body{
+	font-family: sanfa !important;
+}*/
+
+
 
 .footer-all {
 	padding: 30px 30px;
@@ -82,4 +92,12 @@ nav, .nav {
   margin-top:0; 
   position: relative;
  
+}
+
+.all-main-title {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 22px;
+	padding-left: 20px;
+	padding-bottom: 10px;
 }

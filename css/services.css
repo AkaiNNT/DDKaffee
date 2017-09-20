@@ -1,5 +1,7 @@
 .all-services-title {
 	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 22px;
 }
 
 
@@ -24,5 +26,5 @@
 .title-box {
 	height: 70px;
 	padding-top: 10px;
-	font-weight: 500;
+	font-weight: bold;
 }

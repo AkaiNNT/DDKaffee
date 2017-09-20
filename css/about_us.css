@@ -54,7 +54,8 @@ nav, .nav {
 	position: absolute;
 	text-align: center;
 	z-index: 5;
-	font-weight: bold;
+	font-weight: bolder;
+	font-size: 36px;
 	background: none;
 	margin-top: 50px;	
 	color: white;

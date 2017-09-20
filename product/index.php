@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Product</title>
+    <title>Sản phẩm</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -54,7 +54,7 @@
                   <li><a class="hover-a-tag" href="../about" style="color: white;">VỀ CHÚNG TÔI</a></li>
                   <li><a class="hover-a-tag" href="../process" style="color: white;">QUY TRÌNH SẢN XUẤT</a></li>
                   <li><a class="hover-a-tag" href="../product" style="color: white;">SẢN PHẨM</a></li>
-                  <li><a class="hover-a-tag" href="#" style="color: white;">DỊCH VỤ</a></li>
+                  <li><a class="hover-a-tag" href="../services" style="color: white;">DỊCH VỤ</a></li>
                 </ul>
               </div>
             </li>
@@ -68,7 +68,7 @@
         </div>
       </div>
     <div class="container main-tittle">
-      <h1>SẢN PHẨM</h1>
+      SẢN PHẨM
     </div>
   </div>
   </div>
@@ -96,8 +96,9 @@
     </div>
     <div class="other-product">
       <div class="other-title">
-        Sản phẩm khác
+        <h3 class="title-product" style="padding-left: 40px;">Sản phẩm khác</h3>
       </div>
+      <div class="clearfix"></div>
       <div class="col-md-3">
         <img src="../img/product/other-1.png" alt="One of the best themes ever">
         <div class="other-title-product">Phin Blend</div>
