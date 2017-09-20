@@ -88,7 +88,7 @@
 				<div class="tab-pane fade" id="Tab2">
 					<div class="w3-text">
 						<img src="../img/about_us/company.jpg" class="img-responsive" alt="" style="width:100%; margin-top: 25px;">
-						<h1>Nhà máy</h1>
+						<h1 id="nongtrai">Nhà máy</h1>
 						<p>Tại vùng ngoại ô thành phố Đà Lạt - nơi nổi tiếng với những loại cà phê ngon nhất Việt Nam, chúng tôi xây dựng nhà máy sản xuất cà phê nhân với quy mô hơn 5000 mét vuông, cung cấp số lượng lớn nguồn cà phê chất lượng cao, đáp ứng từng nhu cầu khắt khe của khách hàng.</p>
 						<p>D&D Kaffee tập trung phát triển những phương pháp mới ngoài phương pháp sơ chế tự nhiên đòi hỏi công nghệ cao, mang lại chất lượng cà phê tuyệt hảo, như:
 							• Sơ chế mật ong (Honey Processing) 
@@ -100,7 +100,7 @@
 				<div class="tab-pane fade" id="Tab3">
 					<div class="w3-text">
 						<img src="../img/about_us/img-3.jpg" class="img-responsive" alt="" style="width:100%; margin-top: 25px;">
-						<h1>Xưởng</h1>
+						<h1 id="nongtrai">Xưởng</h1>
 						<p>
 							Sau khi được sơ chế cẩn thận, cà phê nhân được vận chuyển đến xưởng rang nằm tại phía Đông Sài Gòn, cũng là trụ sở chính của D&D Kaffee.</p>
 						<p>
@@ -112,7 +112,7 @@
 				<div class="tab-pane fade" id="Tab4">
 					<div class="w3-text">
 						<img src="../img/about_us/img-4.jpg" class="img-responsive" alt="" style="width:100%; margin-top: 25px;">
-						<h1>Khách hàng</h1>
+						<h1 id="nongtrai">Khách hàng</h1>
 						<p>Những hạt cà phê trải qua nhiều bước sàn lọc, chế biến, rang xay, cuối cùng đến tay khách hàng trong diện mạo và chất lượng tuyệt đối hoàn hảo.</p>
 						<div class="col-md-6">
 							<img src="../img/about_us/namlong.png" class="img-responsive" alt="">

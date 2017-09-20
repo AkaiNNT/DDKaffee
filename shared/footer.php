@@ -32,7 +32,7 @@
 		<div class="col-md-4">
 			<div class="title-footer">
 				Liên hệ với chúng tôi
-			</div>
+			</div><img src="../img/logo.png" alt="logo" class="img img-responsive">
 			<div class="group-top-post">
 				<div class="footer-post-title">
 					Công ty TNHH DD Kaffee
@@ -46,6 +46,10 @@
 		</div>
 		<div class="col-md-4">
 			<img src="../img/map.jpg" alt="sofa" class="img img-responsive" />
+		</div>
+		<div class="clearfix"></div>
+		<div class="row footer-post-date copyright">
+			<p>© 2016 D&D Roasters. All Rights Reserved.</p>
 		</div>
 	</div>
 </footer>
