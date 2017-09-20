@@ -19,7 +19,13 @@
 	float: right;
 	font-size: 18px;
 }
-
+.title-gallery{
+	font-weight: bold;
+	font-size: 30px;
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}
 .text-right {
 	text-align: right !important;
 }
