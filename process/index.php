@@ -176,6 +176,42 @@
 						<div class="row" style="text-align: center;">
 							<p>Qua nhiều năm nghiên cứu và phát triển chất lượng cà phê, D&D Kaffee luôn tuân thủ những nguyên tắc đạo đức theo tiêu chuẩn của hiệp hội Quốc Tế 4C và UTZ, góp phần xây dựng ngành cà phê bền vững về tương lai.</p>
 						</div>
+						<br>
+						<div class="row">
+							<div class="col-md-8 col-md-offset-2">
+								<div class="title-bottom">
+									Đây là tinh thần<span class='title-bottom-with-color'>"cà phê có trách nhiệm"</span>
+								</div>
+								<div class="media">
+								  <div class="media-left">
+								    <img src="../img/about_us/logo-medium.png" class="media-object">
+								  </div>
+								  <div class="media-body media-body-config">
+								    <!-- <div class="media-heading media-heading-config">Công Ty TNHH DD Kaffe</div> -->
+								    Là hoạt động hỗ trợ nông dân thông qua cách đào tạo, bảo vệ môi trường bền vững, quan tâm đến đời sống nông dân và cộng đồng một cách toàn diện.
+								  </div>
+								</div>
+								<div class="media">
+								  <div class="media-left">
+								    <img src="../img/about_us/logo-medium.png" class="media-object">
+								  </div>
+								  <div class="media-body media-body-config">
+								    <!-- <div class="media-heading media-heading-config">Công Ty TNHH DD Kaffe</div> -->
+								    Là một chương trình toàn cầu, được ghi nhận bởi hơn 116 quốc gia trên thế giới.
+								  </div>
+								</div>
+								<div class="media">
+								  <div class="media-left">
+								    <img src="../img/about_us/logo-medium.png" class="media-object">
+								  </div>
+								  <div class="media-body media-body-config">
+								    <!-- <div class="media-heading media-heading-config">Công Ty TNHH DD Kaffe</div> -->
+								    Tại thị trường Việt Nam, D&D Kaffee tự hào là một trong những doanh nghiệp đi đầu trong việc thực hiện và được chứng nhận bởi các tổ chức quốc tế này.
+								  </div>
+								</div>
+							</div>
+						</div>
+						<br>
 					</div>
 				</div>
 						

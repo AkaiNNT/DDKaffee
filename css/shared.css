@@ -11,6 +11,7 @@
 
 .footer-all {
 	padding: 30px 30px;
+	margin: 0px -15px;
 	
 }
 .title-footer {
@@ -100,4 +101,18 @@ nav, .nav {
 	font-size: 22px;
 	padding-left: 20px;
 	padding-bottom: 10px;
+}
+
+.title-bottom-with-color {
+	color: #d9a535;
+	font-weight: bold;
+}
+
+.title-bottom {
+	font-size: 20px;
+	text-align: center;
+}
+
+.media-body-config {
+	font-weight: bold;
 }

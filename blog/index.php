@@ -36,10 +36,10 @@
 	<div class="banner">
     <div class="navbar-light" id="">
       <div class="container">
-        <a class="navbar-left navbar-brand js-scroll-trigger bg-logo" href="#page-top"  style="padding-top: 0px;"><img src="../img/logo.png" alt="One of the best themes ever"></a>
+        <a class="navbar-left navbar-brand js-scroll-trigger bg-logo" href="../"  style="padding-top: 0px;"><img src="../img/logo.png" alt="One of the best themes ever"></a>
        
         <div class="collapse navbar-collapse" id="navbarResponsive" style="padding-top: 0px;">
-          <ul class="nav navbar-nav ml-auto navbar-right ">
+          <ul class="nav navbar-nav ml-auto navbar-right "  style="    margin-right: -60px;">
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="../index.php">TRANG CHỦ</a>
             </li>
@@ -82,7 +82,7 @@
       <div class="col-md-6">
         <img src="../img/blog/1.jpg" alt="One of the best themes ever">
         <div class="services-title">
-          Cung cấp cà phê nhân
+          <a href="1.php">Cung cấp cà phê nhân</a>
         </div>
         <div class="blog-content">
           Sự ổn định về chất lượng và số lượng chính là cam kết tuyệt đối của chúng tôi đối với các đối tác như: Rita Võ, Nam Long, Fresh Origin, Là Việt Coffee...
@@ -91,7 +91,7 @@
       <div class="col-md-6">
         <img src="../img/blog/2.jpg" alt="One of the best themes ever">
         <div class="services-title">
-          Cung cấp sỉ/lẻ cà phê rang chất 
+          <a href="2.php">Cung cấp sỉ/lẻ cà phê rang chất </a>
         </div>
         <div class="blog-content">
           Bên cạnh vai trò là nhà sản xuất và cung cấp cà phê, chúng tôi còn hỗ trợ tối đa nền tảng kiến thức và thiết bị pha chế, giúp doanh nghiệp bạn vững mạnh hơn trong ngành hàng hấp dẫn nhưng cũng không kém phần khốc liệt này.
@@ -100,7 +100,7 @@
       <div class="col-md-6">
         <img src="../img/blog/3.jpg" alt="One of the best themes ever">
         <div class="services-title">
-          Lên menu thức uống, đào tạo pha chế miễn phí
+          <a href="3.php">Lên menu thức uống, đào tạo pha chế miễn phí</a>
         </div>
         <div class="blog-content">
           Chúng tôi hỗ trợ bạn trong các đầu việc sau:
@@ -111,7 +111,7 @@
       <div class="col-md-6">
         <img src="../img/blog/4.jpg" alt="One of the best themes ever">
         <div class="services-title">
-          Tư vấn set-up quán
+          <a href="4.php">Tư vấn set-up quán</a>
         </div>
         <div class="blog-content">
           Nên bày trí quán và thiết kế quầy bar thế nào để đạt chuẩn tốt nhất và đạt hiệu suất làm việc tối ưu, chúng tôi có gói tư vấn chi tiết cho bạn. Đồng thời, chúng tôi hỗ trợ tuyển dụng và huấn luyện nhân viên cho doanh nghiệp của bạn.

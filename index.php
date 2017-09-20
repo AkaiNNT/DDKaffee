@@ -101,19 +101,19 @@
                 <span class="title-header">Liên hệ</span>
               </a>
             </div> -->
-            <a class="navbar-left navbar-brand js-scroll-trigger bg-logo" href="#"  style="padding-top: 0px;"><img src="img/logo.png" alt="One of the best themes ever"></a>
+            <a class="navbar-left navbar-brand js-scroll-trigger bg-logo" href="#"  style="padding-top: 0px;  padding-left: 115px;"><img src="img/logo.png" alt="One of the best themes ever"></a>
            
             <div class="collapse navbar-collapse" id="navbarResponsive" style="padding-top: 0px;">
-              <ul class="nav navbar-nav ml-auto navbar-right ">
+              <ul class="nav navbar-nav ml-auto navbar-right" style="padding-right: 65px;">
                 <li class="nav-item active1">
-                  <a class="nav-link js-scroll-trigger" href="/index.php">TRANG CHỦ</a>
+                  <a class="nav-link js-scroll-trigger" href="/index.php" style="font-weight: bold;">TRANG CHỦ</a>
                 </li>
                 <!-- <li class="nav-item active1">
                   <a class="nav-link js-scroll-trigger" href="../process">DOANH NGHIỆP</a>
                 </li> -->
                 <li class="nav-item">
                   <div class="dropdown" style="padding-top: 15px;">
-                    <a class="nav-link js-scroll-trigger dropdown-toggle a-dropdown-custom" data-toggle="dropdown" style="cursor: pointer;">DOANH NGHIỆP
+                    <a class="nav-link js-scroll-trigger dropdown-toggle a-dropdown-custom" data-toggle="dropdown" style="cursor: pointer; font-weight: bold;">DOANH NGHIỆP
                     </a>
                     <ul class="dropdown-menu dropdown-menu-custom" style="background: transparent; text-align: right; padding-right: 0px !important; right: -22px;">
                       <li><a class="hover-a-tag a-dropdown-custom" href="about" style="color: white;">VỀ CHÚNG TÔI</a></li>
@@ -124,10 +124,10 @@
                   </div>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link js-scroll-trigger a-dropdown-custom" href="blog">BLOG</a>
+                  <a class="nav-link js-scroll-trigger a-dropdown-custom" href="blog" style="font-weight: bold;">BLOG</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link js-scroll-trigger a-dropdown-custom" href="contact">LIÊN HỆ</a>
+                  <a class="nav-link js-scroll-trigger a-dropdown-custom" href="contact" style="font-weight: bold;">LIÊN HỆ</a>
                 </li>
               </ul>
             </div>

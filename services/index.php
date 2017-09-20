@@ -34,7 +34,7 @@
           <a class="navbar-left navbar-brand js-scroll-trigger bg-logo" href="../"  style="padding-top: 0px;"><img src="../img/logo.png" alt="One of the best themes ever"></a>
          
           <div class="collapse navbar-collapse" id="navbarResponsive" style="padding-top: 0px;">
-            <ul class="nav navbar-nav ml-auto navbar-right ">
+            <ul class="nav navbar-nav ml-auto navbar-right "  style="    margin-right: -60px;">
               <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="../index.php">TRANG CHỦ</a>
               </li>
