@@ -74,16 +74,16 @@ $(function(){
 	
 // add animation type  from animate.css on the element which you want to animate
 
-		$('.item1 img').animateCss('slideInDown');
-		$('.item1 h2').animateCss('zoomIn');
-		$('.item1 p').animateCss('fadeIn');
+		// $('.item1 img').animateCss('slideInDown');
+		// $('.item1 h2').animateCss('zoomIn');
+		// $('.item1 p').animateCss('fadeIn');
 		
-		$('.item2 img').animateCss('zoomIn');
-		$('.item2 h2').animateCss('swing');
-		$('.item2 p').animateCss('fadeIn');
+		// $('.item2 img').animateCss('zoomIn');
+		// $('.item2 h2').animateCss('swing');
+		// $('.item2 p').animateCss('fadeIn');
 		
-		$('.item3 img').animateCss('fadeInLeft');
-		$('.item3 h2').animateCss('fadeInDown');
-		$('.item3 p').animateCss('fadeIn');
+		// $('.item3 img').animateCss('fadeInLeft');
+		// $('.item3 h2').animateCss('fadeInDown');
+		// $('.item3 p').animateCss('fadeIn');
     });
 });

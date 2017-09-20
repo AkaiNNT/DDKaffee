@@ -3,7 +3,7 @@
     <div class="inner-content">
       <div class="col-md-6">
         <div class="carousel-img">
-          <img src="img/coffee_tack.png" alt="coffee" class="img img-responsive" style="max-height: auto !importain;" />
+          <img src="img/coffee_tack.png" alt="coffee" class="img img-responsive" style="visibility: unset; opacity: inherit; width: 100%;" />
         </div>
       </div>
 

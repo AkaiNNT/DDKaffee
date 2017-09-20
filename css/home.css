@@ -34,12 +34,13 @@ a.header-a-tag-custom:hover {
 	color: #d9a535;
 }
 
-.title-product {
+.title-product-slider {
 	color: #363636;
 	text-transform: uppercase;
 	font-weight: 700;
 	float: right;
-	font-size: 32px;
+	font-size: 44px;
+	width: 100% !important;
 }
 
 .text-right {
@@ -97,4 +98,19 @@ nav, .nav {
 
 .a-dropdown-custom:hover {
 	color: #d9a535 !important;
+}
+
+.text-in-slider {
+    width: 100%;
+    position: absolute;
+    top: 190px;
+    left: -105%;
+}
+
+.full-width {
+	width: 100% !important;
+}
+
+.black-text {
+	color: black !important;
 }
