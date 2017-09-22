@@ -29,9 +29,9 @@
 <div class="banner">
   <div class="navbar-light" id="">
     <div class="container">
-        <a class="navbar-left navbar-brand js-scroll-trigger bg-logo" href="../"  style="padding-top: 0px;"><img src="../img/logo.png" alt="One of the best themes ever"></a>
+        <a class="navbar-left navbar-brand js-scroll-trigger bg-logo" href="../"  style="padding-top: 0px; padding-left: 60px;"><img src="../img/logo.png" alt="One of the best themes ever"></a>
        
-        <div class="collapse navbar-collapse" id="navbarResponsive" style="padding-top: 0px;">
+        <div class="collapse navbar-collapse" id="navbarResponsive" style="padding-top: 0px; padding-right: 60px !important;">
           <ul class="nav navbar-nav ml-auto navbar-right ">
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="../index.php">TRANG CHỦ</a>
@@ -66,7 +66,7 @@
 </div>
  <!--//banner-->
     <div class="container"></div>
-		<div class="col-md-6" style="padding-left: 50px;">
+		<div class="col-md-6" style="padding-left: 70px;">
 			<div class="title-contact">
 				Địa chỉ
 				<p></p>
@@ -98,7 +98,7 @@
 				<img src="../img/coffee_tack.png" style="width: 250px; padding-right: 100px; float: right;">
 			</div>
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-6" style="padding-right: 80px;">
 			<div class="title-contact">
 				Liên hệ D&D Kaffee
 				<p></p>

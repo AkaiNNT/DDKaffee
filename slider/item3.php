@@ -64,7 +64,7 @@
                 <p class="full-width black-text">Từ những giọt cà phê đậm đà của Robusta - Honey và hương thơm quyến rũ của Arabica, Phin blend mang đến bạn hương vị hoàn hảo đậm chất truyền thống Việt Nam.</p>
                 <br>
                 <div class="button-product pull-right">
-                  <a href="product">
+                  <a href="product/2.php">
                     <img src="img/button-to-product.png" alt="sofa" class="img img-responsive" style="visibility: unset; opacity: inherit;" />
                   </a>
                 </div>
@@ -80,7 +80,7 @@
                 <p class="full-width black-text">Hương vị tinh tế từ những hạt Arabica tuyển chọn ở độ cao 1500 - 1650 mét của các vùng LangBiang, Mănglin, Cầu Đất (Đà Lạt) - những chiếc nôi của nền văn minh cà phê Việt Nam.</p>
                 <br>
                 <div class="button-product pull-right">
-                  <a href="product">
+                  <a href="product/3.php">
                     <img src="img/button-to-product.png" alt="sofa" class="img img-responsive" style="visibility: unset; opacity: inherit;" />
                   </a>
                 </div>
@@ -95,7 +95,7 @@
                 <p class="full-width black-text">Đậm đà hương vị Robusta hòa quyện tuyệt đối vào Arabica cho tách cà phê ngon đúng điệu, làm hài lòng tất cả những vị khách khó tính hất trong hương vị.</p>
                 <br>
                 <div class="button-product pull-right">
-                  <a href="product">
+                  <a href="product/4.php">
                     <img src="img/button-to-product.png" alt="sofa" class="img img-responsive" style="visibility: unset; opacity: inherit;" />
                   </a>
                 </div>
@@ -110,7 +110,7 @@
                 <p class="full-width black-text">Nốt trầm mạnh mẽ trong bản giao hưởng về cà phê truyền thống, Robusta - Honey được hái lựa bằng tay hơn 90% trái chín, từ vùng cao nguyên Lâm Hà - Lâm Đồng. Phương pháp sơ chế mật ong đặc biệt này nhấn mạnh vào trải nghiệm nồng ấm, đậm đà trong vị giác.</p>
                 <br>
                 <div class="button-product pull-right">
-                  <a href="product">
+                  <a href="product/5.php">
                     <img src="img/button-to-product.png" alt="sofa" class="img img-responsive" style="visibility: unset; opacity: inherit;" />
                   </a>
                 </div>

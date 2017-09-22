@@ -76,12 +76,12 @@
 	<div class="padding-nav" style="padding-top: 0px !important;">
     <div class="main-product">
   		<div class="col-md-6">
-  			<img src="../img/product/1.png" alt="One of the best themes ever">
+  			<img src="../img/product5.png" alt="One of the best themes ever" style="width: 580px; height: 590px;">
       </div>
       <div class="col-md-6">
         <div class="product-content">
           <div class="product-title">
-            MOKA BLEND
+            Robusta-Honey
           </div>
           <div class="vote-content"></div>
           <div class="product-desc">
@@ -101,6 +101,10 @@
       <div class="clearfix"></div>
       <div class="col-md-3">
         <img src="../img/product/other-1.png" alt="One of the best themes ever">
+        <div class="other-title-product"><a class="hover-a-tag" href='index.php'>Moka Blend</a></div>
+      </div>
+      <div class="col-md-3">
+        <img src="../img/product/other-1-bk.png" alt="One of the best themes ever">
         <div class="other-title-product"><a class="hover-a-tag" href='2.php'>Phin Blend</a></div>
       </div>
       <div class="col-md-3">
@@ -110,10 +114,6 @@
       <div class="col-md-3">
         <img src="../img/product/other-3.png" alt="One of the best themes ever">
         <div class="other-title-product"><a class="hover-a-tag" href='4.php'>Espresso Blend</a></div>
-      </div>
-      <div class="col-md-3">
-        <img src="../img/product/other-4.png" alt="One of the best themes ever">
-        <div class="other-title-product"><a class="hover-a-tag" href='5.php'>Robusta-Honey</a></div>
       </div>
     </div>
     <div class="clearfix"></div>

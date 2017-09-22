@@ -60,7 +60,7 @@
       background: none;
     }
     .navbar-brand{
-      padding-left: 100px;
+      padding-left: 10px;
     }
     .navbar-collapse{
       padding-top: 20px;
@@ -106,7 +106,7 @@
             <div class="collapse navbar-collapse" id="navbarResponsive" style="padding-top: 0px;">
               <ul class="nav navbar-nav ml-auto navbar-right" style="padding-right: 65px;">
                 <li class="nav-item active1">
-                  <a class="nav-link js-scroll-trigger" href="/index.php" style="font-weight: bold;">TRANG CHỦ</a>
+                  <a class="nav-link js-scroll-trigger" href="index.php" style="font-weight: bold;">TRANG CHỦ</a>
                 </li>
                 <!-- <li class="nav-item active1">
                   <a class="nav-link js-scroll-trigger" href="../process">DOANH NGHIỆP</a>

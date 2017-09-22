@@ -86,7 +86,7 @@
 			    	<div class="col-md-6">
 			    		<div class="group-top-post">
 								<div class="footer-post-title">
-									Gia nhập cộng đồng cà phê sạch
+									<a href="blog/1.php" class="a-tag-color">Cung cấp cà phê nhân</a>
 								</div>
 								<div class="footer-post-date">
 									<p class="config-p-tag">12.08.2017</p>
@@ -94,7 +94,7 @@
 							</div>
 							<div class="group-top-post">
 								<div class="footer-post-title">
-									Lan toả tư duy cà phê sạch, lan toả tư duy D&D
+									<a href="blog/2.php" class="a-tag-color">Cung cấp sỉ/lẻ cà phê rang chất </a>
 								</div>
 								<div class="footer-post-date">
 									<p class="config-p-tag">12.08.2017</p>
@@ -102,13 +102,13 @@
 							</div>
 							<div class="group-top-post">
 								<div class="footer-post-title">
-									Tử tế từ thương hiệu
+									<a href="blog/3.php" class="a-tag-color">Lên menu thức uống, đào tạo pha chế miễn phí</a>
 								</div>
 								<div class="footer-post-date">
 									<p class="config-p-tag">12.08.2017</p>
 								</div>
 							</div>
-							<img src="img/map.jpg" alt="sofa" class="img img-responsive" style="visibility: initial;opacity: unset;margin: inherit;" />
+							<img src="img/map.jpg" alt="sofa" class="img img-responsive" style="visibility: initial;opacity: unset;margin: inherit;height: 280px; width: 95%;" />
 			    	</div>
 			    </div>
 		    </div>
@@ -116,3 +116,4 @@
     </div>
   </div>
 </div>
+

@@ -85,7 +85,7 @@ nav, .nav {
 	background: none;
 }
 .navbar-brand{
-	padding-left: 100px;
+	padding-left: 10px;
 }
 .navbar-collapse{
 	padding-top: 20px;
@@ -162,4 +162,9 @@ input[type=text],textarea {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+}
+
+
+.a-tag-color {
+	color: #d9a535 !important;
 }

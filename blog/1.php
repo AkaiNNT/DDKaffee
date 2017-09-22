@@ -67,7 +67,7 @@
           </ul>
         </div>
       </div>
-    <div class="container main-tittle">
+    <div class="container main-tittle" style="padding-left: 120px;">
       BLOG
     </div>
   </div>
@@ -124,14 +124,14 @@
       <div class="col-md-4">
         <img src="../img/blog/2.jpg" alt="One of the best themes ever" style="width: 100%;">
         <div class="services-title">
-          <a href="2.php">Cung cấp sỉ/lẻ cà phê rang chất </a>
+          <a href="2.php" class="a-tag-color">Cung cấp sỉ/lẻ cà phê rang chất </a>
         </div>
         <div class="blog-content">
           Bên cạnh vai trò là nhà sản xuất và cung cấp cà phê, chúng tôi còn hỗ trợ tối đa nền tảng kiến thức và thiết bị pha chế, giúp doanh nghiệp bạn vững mạnh hơn trong ngành hàng hấp dẫn nhưng cũng không kém phần khốc liệt này.
         </div>
         <img src="../img/blog/3.jpg" alt="One of the best themes ever" style="width: 100%;">
         <div class="services-title">
-          <a href="3.php">Lên menu thức uống, đào tạo pha chế miễn phí</a>
+          <a href="3.php" class="a-tag-color">Lên menu thức uống, đào tạo pha chế miễn phí</a>
         </div>
         <div class="blog-content">
           Chúng tôi hỗ trợ bạn trong các đầu việc sau:
@@ -140,7 +140,7 @@
         </div>
         <img src="../img/blog/4.jpg" alt="One of the best themes ever" style="width: 100%;">
         <div class="services-title">
-          <a href="4.php">Tư vấn set-up quán</a>
+          <a href="4.php" class="a-tag-color">Tư vấn set-up quán</a>
         </div>
         <div class="blog-content">
           Nên bày trí quán và thiết kế quầy bar thế nào để đạt chuẩn tốt nhất và đạt hiệu suất làm việc tối ưu, chúng tôi có gói tư vấn chi tiết cho bạn. Đồng thời, chúng tôi hỗ trợ tuyển dụng và huấn luyện nhân viên cho doanh nghiệp của bạn.

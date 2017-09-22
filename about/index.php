@@ -67,7 +67,7 @@
           </ul>
         </div>
       </div>
-    <div class="container main-tittle">
+    <div class="container main-tittle" style="padding-left: 120px;">
       VỀ CHÚNG TÔI
     </div>
   </div>

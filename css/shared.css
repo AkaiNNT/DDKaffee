@@ -75,7 +75,7 @@ nav, .nav {
 	background: none;
 }
 .navbar-brand{
-	padding-left: 100px;
+	padding-left: 10px;
 }
 .navbar-collapse{
 	padding-top: 20px;
@@ -115,4 +115,9 @@ nav, .nav {
 
 .media-body-config {
 	font-weight: bold;
+}
+
+
+.a-tag-color {
+	color: #d9a535 !important;
 }
