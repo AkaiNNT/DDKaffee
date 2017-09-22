@@ -12,11 +12,13 @@
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="" href="C:/bootstrap-3.3.5-dist/js/bootstrap.min.js">
 
     <!-- Custom fonts for this template -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="https://developer.apple.com/fonts/">
 
     <!-- Plugin CSS -->
     <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
@@ -79,7 +81,7 @@
       right: -22px;
     }
   </style>
-  <body id="page-top">
+  <body id="page-top" data-spy="scroll" data-target=".navbar" data-offset="20">
     <div class="banner-fake">
       <nav class="navbar navbar-expand-lg navbar-light navbar-fixed-top nav-custom" id="mainNav" style="border: transparent; background-color: transparent;">
         <div class="container">
@@ -104,7 +106,7 @@
             <a class="navbar-left navbar-brand js-scroll-trigger bg-logo" href="#"  style="padding-top: 0px;  padding-left: 115px;"><img src="img/logo.png" alt="One of the best themes ever"></a>
            
             <div class="collapse navbar-collapse" id="navbarResponsive" style="padding-top: 0px;">
-              <ul class="nav navbar-nav ml-auto navbar-right" style="padding-right: 65px;">
+              <ul class="nav navbar-nav ml-auto navbar-right smooth-scroll" style="padding-right: 65px;">
                 <li class="nav-item active1">
                   <a class="nav-link js-scroll-trigger" href="index.php" style="font-weight: bold;">TRANG CHỦ</a>
                 </li>

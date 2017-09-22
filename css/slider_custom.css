@@ -30,3 +30,10 @@
 .text-right {
 	text-align: right !important;
 }
+.dot {
+	background-color: white !important;
+}
+.dot .active, .dot:hover{
+	border: 1px solid white;
+	background-color: white;
+}
