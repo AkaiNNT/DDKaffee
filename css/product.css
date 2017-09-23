@@ -35,3 +35,11 @@
 .hover-a-tag:hover {
 	color: #d9a535 !important;
 }
+
+
+.hover-a-tag-header {
+	color: white !important;
+}
+.hover-a-tag-header:hover {
+	color: #d9a535 !important;
+}

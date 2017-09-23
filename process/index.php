@@ -115,7 +115,9 @@
 						<h1 id="nongtrai">Khách hàng</h1>
 						<p>Những hạt cà phê trải qua nhiều bước sàn lọc, chế biến, rang xay, cuối cùng đến tay khách hàng trong diện mạo và chất lượng tuyệt đối hoàn hảo.</p>
 						<div class="col-md-6">
-							<img src="../img/about_us/namlong.png" class="img-responsive logo-client" alt="">
+							<div class="block-img" style="height: 170px;">
+								<img src="../img/about_us/namlong.png" class="img-responsive" alt="" style="padding: 75px;">
+							</div>
 							<div class="khachhang-content">
 								<div class="title-client">Nam Long</div>
 								<div class="content">
@@ -124,7 +126,9 @@
 							</div>
 						</div>
 						<div class="col-md-6">
-							<img src="../img/logo-clients/T-Coffee-logo.png" class="img-responsive logo-client" alt="">
+							<div class="block-img" style="height: 170px;">
+								<img src="../img/logo-clients/T-Coffee-logo.png" class="img-responsive" alt="" style="padding: 50px 75px;">
+							</div>
 							<div class="khachhang-content">
 								<div class="title-client">T-Coffee</div>
 								<div class="content">
@@ -132,10 +136,12 @@
 								</div>
 							</div>
 						</div>
+						<div class="clearfix"></div>
+						<br>
 						<br>
 						<div class="row">
 							<div class="col-md-4">
-								<img src="../img/logo-clients/caudatfarm-logo.png" class="img-responsive">
+								<img src="../img/logo-clients/caudatfarm-logo.png" class="img-responsive" style="padding-top: 45px;">
 							</div>
 							<div class="col-md-4">
 								<img src="../img/logo-clients/newman-logo.png"" class="img-responsive">
@@ -149,7 +155,7 @@
 								<img src="../img/logo-clients/why-roastery-logo.png" class="mg-responsive">
 							</div>
 							<div class="col-md-4">
-								<img src="../img/logo-clients/rita-vo.png" class="img-responsive" >
+								<img src="../img/logo-clients/rita-vo.png" class="img-responsive" style="padding-top: 40px;">
 							</div>
 							<div class="col-md-4">
 								<img src="../img/logo-clients/Nestle-logo.png" class="img-responsive">

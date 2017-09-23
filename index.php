@@ -115,7 +115,7 @@
                 </li> -->
                 <li class="nav-item">
                   <div class="dropdown" style="padding-top: 15px;">
-                    <a class="nav-link js-scroll-trigger dropdown-toggle a-dropdown-custom" data-toggle="dropdown" style="cursor: pointer; font-weight: bold;">DOANH NGHIỆP
+                    <a class="nav-link js-scroll-trigger dropdown-toggle a-dropdown-custom" data-toggle="dropdown" style="padding: 0px 15px; cursor: pointer; font-weight: bold; ">DOANH NGHIỆP
                     </a>
                     <ul class="dropdown-menu dropdown-menu-custom" style="background: transparent; text-align: right; padding-right: 0px !important; right: -22px;">
                       <li><a class="hover-a-tag a-dropdown-custom" href="about" style="color: white;">VỀ CHÚNG TÔI</a></li>
@@ -162,7 +162,6 @@
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
             <li data-target="#myCarousel" data-slide-to="3"></li>
-            <li data-target="#myCarousel" data-slide-to="4"></li>
           </ol>
 
           <!-- Wrapper for slides -->
@@ -170,7 +169,6 @@
             <?php include 'slider/item1.php';?>
             <?php include 'slider/item2.php';?>
             <?php include 'slider/item3.php';?>
-            <?php include 'slider/item4.php';?>
             <?php include 'slider/item5.php';?>
           </div>
         </div>

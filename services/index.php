@@ -43,7 +43,7 @@
               </li> -->
               <li class="nav-item active1">
                 <div class="dropdown" style="padding-top: 15px;">
-                  <a class="nav-link js-scroll-trigger dropdown-toggle" data-toggle="dropdown">DOANH NGHIỆP
+                  <a class="nav-link js-scroll-trigger dropdown-toggle" data-toggle="dropdown" style="padding: 0px 15px;">DOANH NGHIỆP
                   </a>
                   <ul class="dropdown-menu dropdown-menu-custom" style="background: transparent; text-align: right; padding-right: 0px !important; right: -22px;">
                     <li><a class="hover-a-tag" href="../about" style="color: white;">VỀ CHÚNG TÔI</a></li>
@@ -186,6 +186,14 @@
   	</div>
   </div>
 	<br>
+  <script src="../vendor/jquery/jquery.min.js"></script>
+  <script src="../vendor/popper/popper.min.js"></script>
+  <script src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="../vendor/scrollreveal/scrollreveal.min.js"></script>
+  <script src="../vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
 </body>
 <?php include '../shared/footer.php';?>
 </html>

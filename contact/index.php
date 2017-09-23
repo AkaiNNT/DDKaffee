@@ -41,7 +41,7 @@
             </li> -->
             <li class="nav-item">
               <div class="dropdown" style="padding-top: 15px;">
-                <a class="nav-link js-scroll-trigger dropdown-toggle" data-toggle="dropdown">DOANH NGHIỆP
+                <a class="nav-link js-scroll-trigger dropdown-toggle" data-toggle="dropdown" style="padding: 0px 15px;">DOANH NGHIỆP
                 </a>
                 <ul class="dropdown-menu dropdown-menu-custom" style="background: transparent; text-align: right; padding-right: 0px !important; right: -22px;">
                   <li><a class="hover-a-tag" href="../about" style="color: white;">VỀ CHÚNG TÔI</a></li>

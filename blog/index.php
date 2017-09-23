@@ -48,7 +48,7 @@
             </li> -->
             <li class="nav-item">
               <div class="dropdown" style="padding-top: 15px;">
-                <a class="nav-link js-scroll-trigger dropdown-toggle" data-toggle="dropdown">DOANH NGHIỆP
+                <a class="nav-link js-scroll-trigger dropdown-toggle" data-toggle="dropdown" style="padding: 0px 15px;">DOANH NGHIỆP
                 </a>
                 <ul class="dropdown-menu dropdown-menu-custom" style="background: transparent; text-align: right; padding-right: 0px !important; right: -22px;">
                   <li><a class="hover-a-tag" href="../about" style="color: white;">VỀ CHÚNG TÔI</a></li>
@@ -97,6 +97,7 @@
           Bên cạnh vai trò là nhà sản xuất và cung cấp cà phê, chúng tôi còn hỗ trợ tối đa nền tảng kiến thức và thiết bị pha chế, giúp doanh nghiệp bạn vững mạnh hơn trong ngành hàng hấp dẫn nhưng cũng không kém phần khốc liệt này.
         </div>
       </div>
+      <p></p>
       <div class="col-md-6">
         <img src="../img/blog/3.jpg" alt="One of the best themes ever">
         <div class="services-title">
