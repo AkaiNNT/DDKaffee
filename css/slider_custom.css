@@ -37,3 +37,8 @@
 	border: 1px solid white;
 	background-color: white;
 }
+
+.container-custome {
+	height: 60px;
+	padding: 0px 68px !important;
+}

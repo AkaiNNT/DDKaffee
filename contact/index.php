@@ -18,53 +18,26 @@
     <!-- Custom styles for this template -->
     <link href="../css/creative.css" rel="stylesheet">
     <link href="../css/home.css" rel="stylesheet">
-    <link href="../css/slider.css" rel="stylesheet">
-    <link href="../css/slider_custom.css" rel="stylesheet">
+    <!-- <link href="../css/slider.css" rel="stylesheet"> -->
+    <!-- <link href="../css/slider_custom.css" rel="stylesheet"> -->
     <link href="../css/about_us.css" rel="stylesheet">
     <link href="../css/contact.css" rel="stylesheet">
     <link href="../css/shared.css" rel="stylesheet">
+    <link href="../css/banner.css" rel="stylesheet">
 </head>
-<body>
-<!--Banner-->
-<div class="banner">
-  <div class="navbar-light" id="">
-    <div class="container">
-        <a class="navbar-left navbar-brand js-scroll-trigger bg-logo" href="../"  style="padding-top: 0px; padding-left: 60px;"><img src="../img/logo.png" alt="One of the best themes ever"></a>
-       
-        <div class="collapse navbar-collapse" id="navbarResponsive" style="padding-top: 0px; padding-right: 60px !important;">
-          <ul class="nav navbar-nav ml-auto navbar-right ">
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="../index.php">TRANG CHỦ</a>
-            </li>
-            <!-- <li class="nav-item active1">
-              <a class="nav-link js-scroll-trigger" href="../process">DOANH NGHIỆP</a>
-            </li> -->
-            <li class="nav-item">
-              <div class="dropdown" style="padding-top: 15px;">
-                <a class="nav-link js-scroll-trigger dropdown-toggle" data-toggle="dropdown" style="padding: 0px 15px;">DOANH NGHIỆP
-                </a>
-                <ul class="dropdown-menu dropdown-menu-custom" style="background: transparent; text-align: right; padding-right: 0px !important; right: -22px;">
-                  <li><a class="hover-a-tag" href="../about" style="color: white;">VỀ CHÚNG TÔI</a></li>
-                  <li><a class="hover-a-tag" href="../process" style="color: white;">QUY TRÌNH SẢN XUẤT</a></li>
-                  <li><a class="hover-a-tag" href="../product" style="color: white;">SẢN PHẨM</a></li>
-                  <li><a class="hover-a-tag" href="../services" style="color: white;">DỊCH VỤ</a></li>
-                </ul>
-              </div>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="../blog">BLOG</a>
-            </li>
-            <li class="nav-item active1">
-              <a class="nav-link js-scroll-trigger" href="../contact">LIÊN HỆ</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-  <div class="container main-tittle">
-  	LIÊN HỆ
-  </div>
-</div>
+<style type="text/css">
+  .hover-a-tag:hover {
+    color: #d9a535 !important;
+  }
+</style>
+<body id="page-top">
+  <?php $activeClass = 'contact' ?>
+  <?php $activePage = "Liên Hệ"; ?>
+  <?php include '../shared/header.php'; ?>
  <!--//banner-->
+ <div class="clearfix"></div>
+  <div class=""></div>
+  <div class="padding-nav">
     <div class="container"></div>
 		<div class="col-md-6" style="padding-left: 70px;">
 			<div class="title-contact">
@@ -72,6 +45,7 @@
 				<p></p>
 				Văn phòng
 			</div>
+			<br>
 			<div class="contact-content">
 				<div class="media">
 				  <div class="media-left">
@@ -95,15 +69,16 @@
 				    <p>Sale2: 090 678 3976</p>
 				  </div>
 				</div>
-				<img src="../img/coffee_tack.png" style="width: 250px; padding-right: 100px; float: right;">
+				<img src="../img/coffee_tack.png" class="image-responsive" style="width: 250px; padding-right: 100px; float: right;">
 			</div>
 		</div>
-		<div class="col-md-6" style="padding-right: 80px;">
+		<div class="col-md-6" style="max-width: 93%;">
 			<div class="title-contact">
 				Liên hệ D&D Kaffee
 				<p></p>
 				kết nối dây chuyền cà phê tử tế
 			</div>
+			<br>
 			<form name="contactform" method="post" action="../send_form_email.php">
 			  <input  type="text" name="first_name" maxlength="50" size="30" placeholder="Tên/Doanh Nghiệp">
 			  <input  type="text" name="telephone" maxlength="30" size="30" placeholder="Số điện thoại">
@@ -115,6 +90,7 @@
     <div class="clearfix"></div>
     <br>
     <img src="../img/map-contact.jpg" style="width: 100%;">
+  </div>
     <!-- <div class="footer" style="background: url(img/footer.jpg) no-repeat; height: 300px; margin: 0; padding: 0;">
     	<div class="">
     		<div class="row">

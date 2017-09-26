@@ -1,58 +1,9 @@
-<!-- <div class="footer-all add-background-footer">
-	<div class="container">
-		<div class="col-md-4">
-			<div class="title-footer">
-				Bài mới nhất
-			</div>
-			<div class="group-top-post">
-				<div class="footer-post-title">
-					Gia nhập cộng đồng cà phê sạch
-				</div>
-				<div class="footer-post-date">
-					<p class="config-p-tag">12.08.2017</p>
-				</div>
-			</div>
-			<div class="group-top-post">
-				<div class="footer-post-title">
-					Lan toả tư duy cà phê sạch, lan toả tư duy D&D
-				</div>
-				<div class="footer-post-date">
-					<p class="config-p-tag">12.08.2017</p>
-				</div>
-			</div>
-			<div class="group-top-post">
-				<div class="footer-post-title">
-					Tử tế từ thương hiệu
-				</div>
-				<div class="footer-post-date">
-					<p>12.08.2017</p>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-4">
-			<div class="title-footer">
-				Liên hệ với chúng tôi
-			</div><img src="img/logo.png" alt="logo" class="img img-responsive">
-			<div class="group-top-post">
-				<div class="footer-post-title">
-					Công ty TNHH DD Kaffee
-				</div>
-				<div class="footer-post-date">
-					<p>180/17 Nguyễn Hữu Cảnh, P.22, Q.Bình Thạnh, TP.HCM</p>
-					<p>Sale1: 090 177 3839</p>
-					<p>Sale1: 090 678 3976</p>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-4">
-			<img src="img/map.jpg" alt="sofa" class="img img-responsive" />
-		</div>
-		<div class="clearfix"></div>
-		<div class="row footer-post-date copyright">
-			<p>© 2016 D&D Roasters. All Rights Reserved.</p>
-		</div>
-	</div>
-</div> -->
+<style>
+   #map {
+    height: 400px;
+    width: 100%;
+   }
+</style>
 <div class="item item4 active" style="background-color: black">
   <div class="masthead">
     <div class="oparactor-backg-2">
@@ -109,6 +60,7 @@
 								</div>
 							</div>
 							<img src="img/map.jpg" alt="sofa" class="img img-responsive" style="visibility: initial;opacity: unset;margin: inherit;height: 280px; width: 95%;" />
+							<!-- <div id="map"></div> -->
 			    	</div>
 			    </div>
 		    </div>

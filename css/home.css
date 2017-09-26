@@ -115,6 +115,18 @@ nav, .nav {
     left: -105%;
 }
 
+@media (max-width: 991px){
+	.text-in-slider {
+		position: unset;
+		text-align: center !important;
+		float: none !important;
+	}
+	.img-responsive-item3 {
+		max-width: 50% !important;
+	}
+
+}
+
 .full-width {
 	width: 100% !important;
 }
@@ -146,7 +158,7 @@ nav, .nav {
 }
 
 .config-padding {
-	padding-top: 100px;
+	padding-top: 70px;
 	padding-left: 40px;
 }
 
@@ -168,4 +180,40 @@ input[type=text],textarea {
 
 .a-tag-color {
 	color: #d9a535 !important;
+}
+
+.show-content {
+	visibility: unset !important;
+	opacity: inherit !important;
+}
+
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus {
+  background-color: transparent !important;
+  border-color: #337ab7;
+}
+
+.custom-nav-home {
+	width: 100%;
+}
+
+
+.img-background {
+	background:linear-gradient(
+                     rgba(0,0,0, .5), 
+                     rgba(0,0,0, .5)),
+                    url("../img/background-top-homepage.jpg");
+}
+
+.header-content-inner-custom {
+	text-align: center;
+	padding-top: 20%;
+}
+
+.home-title {
+	text-transform: uppercase;
+	color: white;
+	font-size: 38px;
+	font-weight: bold;
 }

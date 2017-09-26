@@ -6,6 +6,11 @@
 .product-content {
 	padding-top: 200px;
 }
+ @media (max-width: 991px){
+ 	.product-content {
+ 		padding-top: 0px;
+ 	}
+ }
 
 .product-title {
 	font-size: 30px;
@@ -42,4 +47,14 @@
 }
 .hover-a-tag-header:hover {
 	color: #d9a535 !important;
+}
+
+.link-to-product {
+	position: absolute;
+    top: 100px;
+    left: 53px;
+}
+
+.text-center {
+	text-align: center;
 }

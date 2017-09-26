@@ -1,4 +1,4 @@
-.carousel-inner,.carousel,.item,.container,.fill {
+/*.carousel-inner,.carousel,.item,.container,.fill {
   height:100%;
   width:100%;
   background-position:center center;
@@ -7,8 +7,6 @@
 .slide-wrapper{display:inline;}
 .slide-wrapper .container{padding:0px;}
 
-/*------------------------------ vertical bootstrap slider----------------------------*/
-
 .carousel-inner> .item.next ,  .carousel-inner > .item.active.right{ transform: translateY(100%); -webkit-transform: translateY(100%); -ms-transform: translateY(100%);
 -moz-transform: translateY(100%); -o-transform: translateY(100%);  top: 0;left:0;}
 .carousel-inner > .item.prev ,.carousel-inner > .item.active.left{ transform: translateY(-100%); -webkit-transform: translateY(-100%);  -moz-transform: translateY(-100%);
@@ -16,7 +14,6 @@
 .carousel-inner > .item.next.left , .carousel-inner > .item.prev.right , .carousel-inner > .item.active{transform:translateY(0); -webkit-transform:translateY(0);
 -ms-transform:translateY(0);-moz-transform:translateY(0); -o-transform:translateY(0); top:0; left:0;}
 
-/*------------------------------- vertical carousel indicators ------------------------------*/
 .carousel-indicators{
 position:absolute;
 top:0;
@@ -28,7 +25,6 @@ width:auto;
 }
 .carousel-indicators li{display:block; margin-bottom:5px; border:1px solid white; }
 .carousel-indicators li.active{margin-bottom:5px; background: white;}
-/*-------- Animation slider ------*/
 
 .animated{
 	animation-duration:3s;
@@ -47,7 +43,6 @@ width:auto;
     text-align: center;
 	}
 .item img{margin:auto;visibility:hidden; opacity:0; transition:all 0.3s ease; -webkit-transition:all 0.3s ease; -moz-transition:all 0.3s ease; -ms-transition:all 0.3s ease; -o-transition:all 0.3s ease;}
-/*.item1 .carousel-img img , .item1.active .carousel-img img{max-height:300px;}*/
 .item1.active .carousel-img img.animated{visibility:visible; opacity:1; transition:all 1s ease; -webkit-transition:all 1s ease; -moz-transition:all 1s ease; -ms-transition:all 1s ease; -o-transition:all 1s ease;
 animation-duration:2s; -webkit-animation-duration:2s; -moz-animation-duration:2s; -ms-animation-duration:2s; -o-animation-duration:2s; animation-delay:0.3s ; -webkit-animation-delay:0.3s;
 -moz-animation-delay:0.3s;-ms-animation-delay:0.3s; }
@@ -55,7 +50,6 @@ animation-duration:2s; -webkit-animation-duration:2s; -moz-animation-duration:2s
 .item  h2{font-size:50px; animation-delay:1.5s;animation-duration:1s; }
 .item  p{animation-delay:2.5s;animation-duration:1s; width:50%; margin:auto;}
 
-/*.item2 .carousel-img img , .item2.active .carousel-img img{max-height:300px;}*/
 .item2.active .carousel-img img.animated{visibility:visible; opacity:1; transition:all 0.3s ease; animation-duration:3s; animation-delay:0.3s}
 .item2 h2 , item2.active h2{visibility:hidden; opacity:0; transition:all 5s ease;}
 .item2.active h2.animated{visibility:visible; opacity:1;  animation-delay:3s;}
@@ -87,4 +81,4 @@ animation-duration:2s; -webkit-animation-duration:2s; -moz-animation-duration:2s
 {
 .item  h2{font-size:30px;}
 .item .carousel-desc p{width:100%;}
-}
+}*/

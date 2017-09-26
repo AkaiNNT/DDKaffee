@@ -1,13 +1,13 @@
-<div class="item item2" style="background-color: #f4f4f4;">
-  <div class="fill">
-    <div class="inner-content">
-      <div class="col-md-6">
+<div class="item item2 fade show-content" style="background-color: #f4f4f4;">
+  <div class="fill fade show-content">
+    <div class="inner-content fade show-content">
+      <div class="col-sm-6">
         <div class="carousel-img">
           <img src="img/coffee_tack.png" alt="coffee" class="img img-responsive" style="visibility: unset; opacity: inherit; width: 85%; padding-top: 15px;" />
         </div>
       </div>
 
-      <div class="col-md-6 text-left">
+      <div class="col-sm-6 text-left">
         <div class="right-media">
           <div class="media">
             <div class="media-left">

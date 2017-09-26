@@ -22,12 +22,18 @@
     <link href="../css/slider_custom.css" rel="stylesheet">
     <link href="../css/about_us.css" rel="stylesheet">
     <link href="../css/shared.css" rel="stylesheet">
+    <link href="../css/banner.css" rel="stylesheet">
 </head>
-<body>
-<!--Banner-->
-<?php include '../shared/header_with_banner.php';?>
+<style type="text/css">
+  .hover-a-tag:hover {
+    color: #d9a535 !important;
+  }
+</style>
+<body id="page-top">
+  <?php $activeClass = 'process' ?>
+  <?php $activePage = "Về chúng tôi"; ?>
+  <?php include '../shared/header.php'; ?>
  <!--//banner-->
-    <div class="container"></div>
     <div class="container">
     <div class="process-page">
     	<h2 id="process-tittle">QUY TRÌNH SẢN XUẤT</h2>

@@ -55,8 +55,8 @@ $(function(){
 				});
 			}
 		});
-			 $('.item1.active img').animateCss('slideInDown');
-			 $('.item1.active h2').animateCss('zoomIn');
+			 $('.item1.active.business-name').animateCss('slideInDown');
+			 $('.item1.active h1').animateCss('zoomIn');
 			 $('.item1.active p').animateCss('fadeIn');
 			 
 });
@@ -88,5 +88,14 @@ $(function(){
 		// $('.item3 img').animateCss('fadeInLeft');
 		// $('.item3 h2').animateCss('fadeInDown');
 		// $('.item3 p').animateCss('fadeIn');
+
+		// $('.item1 img').animateCss('slideInDown');
+		// $('.item1 h2').animateCss('zoomIn');
+		// $('.item1 p').animateCss('fadeIn');
+		
+		// $('.item').animateCss('fadeIn');
+		$('.item2 .media-body').animateCss('slideInDown');
+		$('.item2 img').animateCss('swing');
+		
     });
 });
