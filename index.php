@@ -141,10 +141,6 @@
             'navigation': true,
             'navigationPosition': 'right',
             'navigationTooltips': ['fullPage.js', 'Powerful', 'Amazing', 'Simple'],
-            responsiveHeight: 600,
-            afterResponsive: function(isResponsive){
-              console.log("zxc");
-            },
             afterRender: function () {
               setInterval(function () {
                 $.fn.fullpage.moveSlideRight();
