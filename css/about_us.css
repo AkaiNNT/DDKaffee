@@ -148,7 +148,7 @@ height: 200px;
 	padding-left: 20px;
 	float: left;
   padding-top: 75px;
-  width: 6%;
+  width: 5%;
 }
 
 .each-step-custom {
@@ -219,5 +219,37 @@ padding: 50px 10px 30px 30px ;
   }
   .each-step-custom-2{
     max-width: 100px;
+  }
+
+  .icons-flow{
+    width: 6%;
+  }
+}
+
+@media only screen and (max-width: 667px){
+   .each-step-custom{
+    max-width: 70px;
+  }
+  .each-step-custom-2{
+    max-width: 70px;
+  }
+
+  .icons-flow{
+    padding-top: 25px;
+    width: 9%;
+  }
+}
+
+@media only screen and (max-width: 569px){
+   .each-step-custom{
+    max-width: 100%;
+  }
+  .each-step-custom-2{
+    max-width: 100%;
+  }
+
+  .icons-flow{
+    padding-top: 25px;
+    width: 9%;
   }
 }
