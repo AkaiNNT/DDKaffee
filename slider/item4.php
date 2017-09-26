@@ -1,5 +1,5 @@
 <div class="item item4 add-background-item5">
-  <div class="fill repadding">
+  <div class="fill">
     <div class="inner-content">
       <div class="col-md-12">
         <div class="gallery-main">

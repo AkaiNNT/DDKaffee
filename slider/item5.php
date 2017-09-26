@@ -31,8 +31,11 @@
 							  <input  type="text" name="telephone" maxlength="30" size="30" placeholder="Số điện thoại">
 							  <input  type="text" name="email" maxlength="80" size="30" placeholder="Email">
 							  <textarea  name="comments" maxlength="1000" style="width: 100%;" rows="6" placeholder="Lời nhắn(nếu có)"></textarea>
-							  <input type="submit" value="Submit">
+							  <img src="img/contact-button.png" alt="logo" class="img img-responsive" style="width: 200px;">
+							  <input type="submit" value="Submit" id="submitform" class="hidden">
 							</form>
+							<br>
+							<br>
 			    	</div>
 			    	<div class="col-md-6">
 			    		<div class="group-top-post">
