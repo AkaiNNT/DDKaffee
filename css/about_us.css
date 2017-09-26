@@ -124,8 +124,9 @@ height: 200px;
 .process-page .tabs-list ul li a:hover, .process-page .tabs-list ul li a:active{
 	background-image: url(../img/about_us/fill_color.png);
 	/*position: absolute;*/
+  background-color: #fff;
 	background-position: center;
-    background-repeat: no-repeat;
+  background-repeat: no-repeat;
 	/*top: 1px;*/
 	/*left:1px;*/
 }
@@ -146,16 +147,18 @@ height: 200px;
 .icons-flow {
 	padding-left: 20px;
 	float: left;
-    padding-top: 75px;
+  padding-top: 75px;
+  width: 6%;
 }
 
 .each-step-custom {
+  margin-top: 17px;
 	text-align: center;
-	width: 240px;
+	max-width: 210px;
 }
 
 .each-step-custom-2 {
-	width: 200px;
+	width: 210px;
 	text-align: center;
 }
 
@@ -182,3 +185,39 @@ padding: 50px 10px 30px 30px ;
 /*.active {
 	background-image: url(img/about_us/fill_color.jpg);
 }*/
+
+@media only screen and (max-width: 1199px){
+  .each-step-custom{
+    max-width: 140px;
+  }
+  .each-step-custom-2{
+    max-width: 140px;
+  }
+  /*.step a img.images{
+    width: 80%;
+  }*/
+}
+
+@media only screen and (max-width: 991px){
+  .each-step-custom{
+    max-width: 110px;
+  }
+  .each-step-custom-2{
+    max-width: 110px;
+  }
+
+  .icons-flow{
+    padding-top: 54px;
+  }
+  ./*step a img.images{
+    width: 80%;
+  }*/
+}
+@media only screen and (max-width: 720px){
+   .each-step-custom{
+    max-width: 100px;
+  }
+  .each-step-custom-2{
+    max-width: 100px;
+  }
+}
