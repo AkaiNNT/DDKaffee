@@ -71,7 +71,7 @@
 						<h1 id="nongtrai">NÔNG TRẠI</h1>
 						<p>Hành trình cà phê của chúng tôi bắt đầu tại nông trại D&D Kaffee</p>
 						<p>Nông trại được thiết lập theo tiêu chuẩn riêng biệt:</p>
-						<div class="container text-center" style="padding: 0;">    
+						<div class="container text-center" style="padding: 0;max-width: 100%;">    
 						  
 						  <div class="row" style="margin-top:30px;">
 						    <div class="col-md-4 col-xs-12">        
@@ -230,6 +230,7 @@
 						
     	</div>
     </div>
+  </div>
     <div class="clearfix"></div>
     <!-- <div class="footer" style="background: url(img/footer.jpg) no-repeat; height: 300px; margin: 0; padding: 0;">
     	<div class="">
@@ -255,6 +256,7 @@
   <script src="../vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
 
   <!-- Custom scripts for this template -->
+  <?php include '../shared/footer.php';?>
  </body>
- <?php include '../shared/footer.php';?>
+ 
 </html>
