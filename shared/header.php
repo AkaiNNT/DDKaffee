@@ -28,7 +28,7 @@
 
 <div id='banner-bg'>
   <div class="navbar-light" id="">
-    <nav class="navbar navbar-inverse container header-padding container-custome nav-custom-header">
+    <nav class="navbar navbar-inverse header-padding container-custome nav-custom-header navbar-fixed-top">
       <div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -58,7 +58,23 @@
       </div>
     </nav>
     <div class="container main-tittle">
+      <br>
+      <br>
       <?php echo "$activePage" ?>
     </div>
   </div>
 </div>
+<script src="../vendor/jquery/jquery.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $(window).on("scroll", function() {
+      if($(window).scrollTop() > 50) {
+          $(".nav-custom-header").addClass("white-header");
+          $(".active-header-link").attr('style', "color: #d9a535 !important");
+      } else {
+          //remove the background property so it comes transparent again (defined in your css)
+         $(".nav-custom-header").removeClass("white-header");
+      }
+    });
+  })
+</script>

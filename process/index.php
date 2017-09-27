@@ -89,6 +89,9 @@
 						  </div>
 						  <p style="margin-top: 20px; padding: 0; text-align: left;">Chúng tôi hiểu rằng mỗi tách cà phê tuyệt vời đều gắn liền với công sức và sự tâm huyết của người nông dân. Vì vậy, các hộ nông dân liên kết cùng chúng tôi trong dự án "Cà phê tử tế” được hỗ trợ những chính sách ưu đãi về giá, kỹ thuật tiên tiến và tập huấn nông nghiệp thường xuyên.</p>
 						</div>
+						<div style="text-align: center;">
+							<a href="#Tab2" data-toggle="tab" class="next-step" style="color: #d9a535;">Xem quy trình tiếp theo >>></a>
+						</div>
 						<br>
 					</div>
 				</div>
@@ -102,6 +105,10 @@
 							• Sơ chế ướt (Fully-Washed Processing) 
 							Cả 2 phương pháp trên đều được áp dụng cho cả giống Robusta và Arabica.</p>
 						<br>
+						<div style="text-align: center;">
+							<a href="#Tab3" data-toggle="tab" class="next-step" style="color: #d9a535;">Xem quy trình tiếp theo >>></a>
+						</div>
+						<br>
 					</div>
 				</div>
 				<div class="tab-pane fade" id="Tab3">
@@ -113,6 +120,10 @@
 						<p>
 							Cà phê của D&D được rang mới mỗi ngày, qua quy trình đo đạc & kiểm soát chặt chẽ và bởi niềm đam mê của những roaster đầy kinh nghiệm. Cà phê từ D&D, vì vậy, dậy nên hương vị và chất lượng đặc trưng của giống cà phê thuần chủng đích thực.
 						</p>
+						<br>
+						<div style="text-align: center;">
+							<a href="#Tab4" data-toggle="tab" class="next-step" style="color: #d9a535;">Xem quy trình tiếp theo >>></a>
+						</div>
 						<br>
 					</div>
 				</div>
@@ -246,7 +257,7 @@
     		</div>
     	</div>
     </div> -->
- <script src="../vendor/jquery/jquery.min.js"></script>
+ 	<script src="../vendor/jquery/jquery.min.js"></script>
   <script src="../vendor/popper/popper.min.js"></script>
   <script src="../vendor/bootstrap/js/bootstrap.min.js"></script>
 
