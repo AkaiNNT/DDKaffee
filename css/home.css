@@ -275,7 +275,6 @@ input[type=text],textarea {
 @media only screen and (max-width: 365px){
   .navbar-toggle{
     margin-top: 14px;  
-    margin-left: 5px;
     margin-right: -51px;
   }
 }
