@@ -40,14 +40,15 @@
   <div class="clearfix"></div>
 	<div class="padding-nav" style="padding-top: 0px !important;">
     <div class="main-product">
-  		<div class="col-md-6 image-responive">
+  		<div class="col-xs-6 image-responive">
   			<img src="../img/product4.png" alt="One of the best themes ever" class="image-responive">
       </div>
-      <div class="col-md-6 image-responive">
+      <div class="col-xs-6 image-responive text-right-product">
         <div class="product-content">
           <div class="product-title">
             Phin Blend
           </div>
+          <?php include 'rating.php';?>
           <div class="vote-content"></div>
           <div class="product-desc">
             Mang lại vị thanh chua nhẹ nhàng từ mùi hương của trái cây chín, được tuyển chọn từ những giống Arabica thuần chủng nhất.
