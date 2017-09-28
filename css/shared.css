@@ -153,3 +153,89 @@ nav, .nav {
 .active-header-link {
 	color: #d9a535 !important;
 }
+.navbar-toggle {
+      border: none;
+      outline: none;
+	  	
+ }
+ .navbar-default .navbar-toggle .icon-bar {
+     background-color: #d9a535 !important;
+   }
+ .custom-toggle{
+ 	background-color: #d9a535 !important;
+ }
+ @media screen and (max-width: 600px) and (min-width: 321px){
+ 	.home-title{
+ 		font-size: 30px;
+ 	}
+ 	.business-name{
+ 		margin-top:140px; 
+ 	}
+ 	.fp-controlArrow img{
+ 		width: 50px;
+ 	}
+ 	.title-product-slider{
+ 		font-size: 20px;
+ 		text-align: center;
+ 	}
+ 	.black-text{
+ 		text-align: left;
+ 	}
+ 	img.button-product{
+ 		position: absolute;
+ 		width: 200px;
+ 		left: 90px;
+ 		top:550px;
+ 	}
+ 	img.each-product-image{
+ 		width: 300px;
+ 		position: absolute;
+ 		top: -50px;
+ 		left: 40px;
+ 	}
+ 	.rating{
+ 		position: absolute;
+ 		top:-200px !important;
+ 		left: -5px !important;
+ 	}
+ 	.product-number{
+ 		padding-bottom: 15px;
+ 		padding-top: 0px;
+ 	}
+ 	.main-product img{
+ 		width: 300px;
+ 	}
+ 	.rating-content{
+ 		font-size: 15px;
+ 	}
+ }
+ @media screen and(max-width: 320px;) {
+ 	.rating{
+ 		position: absolute;
+ 		top:-300px !important;
+ 		left: -5px !important;
+ 	}
+ }
+ @media screen and(max-height: 620px) {
+ 	img.button-product{
+		position: absolute;
+ 		width: 200px;
+ 		left: 90px;
+ 		top:300px !important;
+ 	}
+ }
+ @media screen and (max-width: 990px) and (min-width: 600px) {
+ 	.product-number{
+ 		padding-bottom: 15px;
+ 		padding-top: 0px;
+ 	}
+ 	.rating{
+ 		position: absolute;
+ 		top:-175px !important;
+ 		left: -5px !important;
+ 	}
+ 	.button-product{
+ 		position: absolute;
+ 		left: 100px !important;
+ 	}
+ }

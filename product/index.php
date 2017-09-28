@@ -40,10 +40,10 @@
   <div class="clearfix"></div>
 	<div class="padding-nav" style="padding-top: 0px !important;">
     <div class="main-product">
-  		<div class="col-xs-6 image-responive">
+  		<div class="col-md-6 image-responive">
   			<img src="../img/product/1.png" alt="One of the best themes ever" class="image-responive">
       </div>
-      <div class="col-xs-6 image-responive text-right-product">
+      <div class="col-md-6 image-responive text-right-product">
         <div class="product-content" style="display:table-cell; vertical-align:center;">
           <div class="product-title">
             MOKA BLEND
