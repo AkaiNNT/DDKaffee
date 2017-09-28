@@ -4,13 +4,13 @@
       
     </div>
   </div> -->
-  <div class="col-xs-6 center-image">
+  <div class="col-md-6 center-image">
     <!-- <div class="carousel-img"> -->
-      <img src="img/coffee_tack.png" alt="coffee" class="img img-responsive" />
+      <img src="img/coffee_tack.png" alt="coffee" class="img img-responsive img-item2-config" />
     <!-- </div> -->
   </div>
 
-  <div class="col-xs-6 right-media-item2">
+  <div class="col-md-6 right-media-item2">
     <div class="right-media">
       <div class="media">
         <div class="media-left">

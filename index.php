@@ -57,10 +57,13 @@
                   <div class="dropdown" style="padding-top: 15px;">
                     <a class="nav-link js-scroll-trigger dropdown-toggle a-dropdown-custom" data-toggle="dropdown" style="padding: 0px 15px; cursor: pointer; font-weight: bold; ">DOANH NGHIỆP
                     </a>
-                    <ul class="dropdown-menu dropdown-menu-custom" style="background: transparent; text-align: right; padding-right: 0px !important; right: -22px;">
+                    <ul class="dropdown-menu dropdown-menu-custom" style="background-color: rgba(255,255,255,0.3); text-align: right; padding-right: 0px !important; right: -22px; border-radius: 0px;">
                       <li><a class="hover-a-tag a-dropdown-custom" href="about" style="color: white;">VỀ CHÚNG TÔI</a></li>
+                      <hr style="margin: 0px;">
                       <li><a class="hover-a-tag a-dropdown-custom" href="process" style="color: white;">QUY TRÌNH SẢN XUẤT</a></li>
+                      <hr style="margin: 0px;">
                       <li><a class="hover-a-tag a-dropdown-custom" href="product" style="color: white;">SẢN PHẨM</a></li>
+                      <hr style="margin: 0px;">
                       <li><a class="hover-a-tag a-dropdown-custom" href="services" style="color: white;">DỊCH VỤ</a></li>
                     </ul>
                   </div>

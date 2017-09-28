@@ -137,3 +137,19 @@ nav, .nav {
 	text-align: center;
 	max-width: 100%;	
 }
+
+.white-backg-header {
+	background-color: white !important;
+}
+
+.white-backg-header a {
+	color: black !important;
+}
+
+.active1 a {
+	color: #d9a535 !important;
+}
+
+.active-header-link {
+	color: #d9a535 !important;
+}
