@@ -44,11 +44,14 @@
             <li><a class="header-link" href="../index.php">Trang chủ</a></li>
             <li>
               <a class="header-link <?php if ($activeClass=='about' || $activeClass=='process' || $activeClass=='product' || $activeClass=='service') {echo "active-header-link"; } ?>" data-toggle="dropdown">Doanh nghiệp</a>
-              <ul class="dropdown-menu dropdown-menu-custom">
-                <li><a class="header-link" href="../about" style="color: white;">VỀ CHÚNG TÔI</a></li>
-                <li><a class="header-link" href="../process" style="color: white;">QUY TRÌNH SẢN XUẤT</a></li>
-                <li><a class="header-link" href="../product" style="color: white; z-index: 999;">SẢN PHẨM</a></li>
-                <li><a class="header-link" href="../services" style="color: white;">DỊCH VỤ</a></li>
+              <ul class="dropdown-menu dropdown-menu-custom" style="background-color: rgba(255,255,255,0.3); text-align: right; padding-right: 0px !important; right: -22px; border-radius: 0px;">
+                <li><a class="header-link-dropdown" href="../about" style="color: white;">VỀ CHÚNG TÔI</a></li>
+                <hr style="margin: 0px;">
+                <li><a class="header-link-dropdown" href="../process" style="color: white;">QUY TRÌNH SẢN XUẤT</a></li>
+                <hr style="margin: 0px;">
+                <li><a class="header-link-dropdown" href="../product" style="color: white; z-index: 999;">SẢN PHẨM</a></li>
+                <hr style="margin: 0px;">
+                <li><a class="header-link-dropdown" href="../services" style="color: white;">DỊCH VỤ</a></li>
               </ul>
             </li>
             <li><a class="header-link <?php if ($activeClass=='blog') {echo "active-header-link"; } ?>" href="../blog">Blog</a></li>

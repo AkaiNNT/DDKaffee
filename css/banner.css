@@ -15,6 +15,21 @@
 	font-weight: bold !important;
 }
 
+.header-link-dropdown {
+	text-transform: uppercase !important;
+	color: white !important;
+	font-weight: bold !important;
+}
+
+.header-link-dropdown a {
+	color: #d9a535 !important;
+}
+
+.header-link-dropdown:hover {
+	background-color: transparent !important;
+	color: #d9a535 !important;
+}
+
 .header-link a {
 	color: #d9a535 !important;
 }

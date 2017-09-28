@@ -6,7 +6,7 @@
   </div> -->
   <div class="col-md-6 center-image">
     <!-- <div class="carousel-img"> -->
-      <img src="img/coffee_tack.png" alt="coffee" class="img img-responsive" />
+      <img src="img/coffee_tack.png" alt="coffee" class="img img-responsive img-item2-config" />
     <!-- </div> -->
   </div>
 
