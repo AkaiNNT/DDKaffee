@@ -41,7 +41,7 @@
   <div class="container">
   	<div class="padding-nav">
       <div class="container main-services">
-        <div class="all-services-title">
+        <div class="all-services-title" style="padding-left: 20px;">
           Dịch vụ
         </div>
         <div class="col-md-4 text-center">
@@ -49,9 +49,11 @@
             <img src="../img/services/1.png" alt="One of the best themes ever">
           </div>
           <div class="title-box">
-            <div class="services-title">
-              Cung cấp cà phê nhân
-            </div>
+            <a href="../blog">
+              <div class="services-title">
+                Cung cấp cà phê nhân
+              </div>
+            </a>
           </div>
           <div class="services-content">Sự ổn định về chất lượng và số lượng chính là cam kết tuyệt đối của chúng tôi đối với các đối tác như: Rita Võ, Nam Long, Fresh Origin, Là Việt Coffee...</div>
         </div>
@@ -60,9 +62,11 @@
             <img src="../img/services/2.png" alt="One of the best themes ever">
           </div>
           <div class="title-box">
-            <div class="services-title">
-              Cung cấp sỉ/lẻ cà phê rang chất lượng
-            </div>
+            <a href="../blog">
+              <div class="services-title">
+                Cung cấp sỉ/lẻ cà phê rang chất lượng
+              </div>
+            </a>
           </div>
           <div class="services-content">Bên cạnh vai trò là nhà sản xuất và cung cấp cà phê, chúng tôi còn hỗ trợ tối đa nền tảng kiến thức và thiết bị pha chế, giúp doanh nghiệp bạn vững mạnh hơn trong ngành hàng hấp dẫn nhưng cũng không kém phần khốc liệt này.</div>
         </div>
@@ -71,9 +75,11 @@
             <img src="../img/services/3.png" alt="One of the best themes ever">
           </div>
           <div class="title-box">
-            <div class="services-title">
-              Hỗ trợ tư vấn kinh doanh quán cà phê
-            </div>
+            <a href="../blog">
+              <div class="services-title">
+                Hỗ trợ tư vấn kinh doanh quán cà phê
+              </div>
+            </a>
           </div>
           <div class="services-content">
             Nếu trong bạn đang tồn tại một trong số các nỗi băn khoăn sau:
@@ -100,9 +106,11 @@
             <img src="../img/services/4.png" alt="One of the best themes ever">
           </div>
           <div class="title-box">
-            <div class="services-title">
-              Lên menu thức uống, đào tạo pha chế miễn phí
-            </div>
+            <a href="../blog">
+              <div class="services-title">
+                Lên menu thức uống, đào tạo pha chế miễn phí
+              </div>
+            </a>
           </div>
           <div class="services-content">Chúng tôi hỗ trợ bạn trong các đầu việc sau:
             <ul>
@@ -127,11 +135,18 @@
             <img src="../img/services/5.png" alt="One of the best themes ever">
           </div>
           <div class="title-box">
-            <div class="services-title">
-              Tư vấn set-up
-            </div>
+            <a href="../blog">
+              <div class="services-title">
+                Tư vấn set-up
+              </div>
+            </a>
           </div>
           <div class="services-content">Nên bày trí quán và thiết kế quầy bar thế nào để đạt chuẩn tốt nhất và đạt hiệu suất làm việc tối ưu, chúng tôi có gói tư vấn chi tiết cho bạn. Đồng thời, chúng tôi hỗ trợ tuyển dụng và huấn luyện nhân viên cho doanh nghiệp của bạn.</div>
+        </div>
+        <div class="col-md-4 text-center">
+          <a href="../contact">
+            <img src="../img/contact-button.png" alt="logo" class="img img-responsive" style="padding-top: 100px;">
+          </a>
         </div>
     		<!-- <div class="col-md-6">
     			<img src="../img/product/1.png" alt="One of the best themes ever">

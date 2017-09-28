@@ -71,7 +71,7 @@
 						<h1 id="nongtrai">NÔNG TRẠI</h1>
 						<p>Hành trình cà phê của chúng tôi bắt đầu tại nông trại D&D Kaffee</p>
 						<p>Nông trại được thiết lập theo tiêu chuẩn riêng biệt:</p>
-						<div class="container text-center" style="padding: 0;">    
+						<div class="container text-center" style="padding: 0;max-width: 100%;">    
 						  
 						  <div class="row" style="margin-top:30px;">
 						    <div class="col-md-4 col-xs-12">        
@@ -89,6 +89,9 @@
 						  </div>
 						  <p style="margin-top: 20px; padding: 0; text-align: left;">Chúng tôi hiểu rằng mỗi tách cà phê tuyệt vời đều gắn liền với công sức và sự tâm huyết của người nông dân. Vì vậy, các hộ nông dân liên kết cùng chúng tôi trong dự án "Cà phê tử tế” được hỗ trợ những chính sách ưu đãi về giá, kỹ thuật tiên tiến và tập huấn nông nghiệp thường xuyên.</p>
 						</div>
+						<div style="text-align: center;">
+							<a href="#Tab2" data-toggle="tab" class="next-step" style="color: #d9a535;">Xem quy trình tiếp theo >>></a>
+						</div>
 						<br>
 					</div>
 				</div>
@@ -102,6 +105,10 @@
 							• Sơ chế ướt (Fully-Washed Processing) 
 							Cả 2 phương pháp trên đều được áp dụng cho cả giống Robusta và Arabica.</p>
 						<br>
+						<div style="text-align: center;">
+							<a href="#Tab3" data-toggle="tab" class="next-step" style="color: #d9a535;">Xem quy trình tiếp theo >>></a>
+						</div>
+						<br>
 					</div>
 				</div>
 				<div class="tab-pane fade" id="Tab3">
@@ -113,6 +120,10 @@
 						<p>
 							Cà phê của D&D được rang mới mỗi ngày, qua quy trình đo đạc & kiểm soát chặt chẽ và bởi niềm đam mê của những roaster đầy kinh nghiệm. Cà phê từ D&D, vì vậy, dậy nên hương vị và chất lượng đặc trưng của giống cà phê thuần chủng đích thực.
 						</p>
+						<br>
+						<div style="text-align: center;">
+							<a href="#Tab4" data-toggle="tab" class="next-step" style="color: #d9a535;">Xem quy trình tiếp theo >>></a>
+						</div>
 						<br>
 					</div>
 				</div>
@@ -230,6 +241,7 @@
 						
     	</div>
     </div>
+  </div>
     <div class="clearfix"></div>
     <!-- <div class="footer" style="background: url(img/footer.jpg) no-repeat; height: 300px; margin: 0; padding: 0;">
     	<div class="">
@@ -245,7 +257,7 @@
     		</div>
     	</div>
     </div> -->
- <script src="../vendor/jquery/jquery.min.js"></script>
+ 	<script src="../vendor/jquery/jquery.min.js"></script>
   <script src="../vendor/popper/popper.min.js"></script>
   <script src="../vendor/bootstrap/js/bootstrap.min.js"></script>
 
@@ -255,6 +267,7 @@
   <script src="../vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
 
   <!-- Custom scripts for this template -->
+  <?php include '../shared/footer.php';?>
  </body>
- <?php include '../shared/footer.php';?>
+ 
 </html>

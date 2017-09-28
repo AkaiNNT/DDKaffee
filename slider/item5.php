@@ -31,8 +31,11 @@
 							  <input  type="text" name="telephone" maxlength="30" size="30" placeholder="Số điện thoại">
 							  <input  type="text" name="email" maxlength="80" size="30" placeholder="Email">
 							  <textarea  name="comments" maxlength="1000" style="width: 100%;" rows="6" placeholder="Lời nhắn(nếu có)"></textarea>
-							  <input type="submit" value="Submit">
+							  <img src="img/contact-button.png" alt="logo" class="img img-responsive" style="width: 200px;">
+							  <input type="submit" value="Submit" id="submitform" class="hidden">
 							</form>
+							<br>
+							<br>
 			    	</div>
 			    	<div class="col-md-6">
 			    		<div class="group-top-post">
@@ -59,7 +62,7 @@
 									<p class="config-p-tag">12.08.2017</p>
 								</div>
 							</div>
-							<img src="img/map.jpg" alt="sofa" class="img img-responsive" style="visibility: initial;opacity: unset;margin: inherit;height: 280px; width: 95%;" />
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.2132634415025!2d106.71669321531172!3d10.79497181180178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3ce817d3671ec692!2sD%26D+Kaffee!5e0!3m2!1sen!2s!4v1506396850442" width="100%" height="260" frameborder="0" style="border:0" allowfullscreen></iframe>
 							<!-- <div id="map"></div> -->
 			    	</div>
 			    </div>
